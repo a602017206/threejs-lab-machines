@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ENG1 · 发动机试验台</title>
+  <script type="module" crossorigin src="./assets/engine1-BHPdym4n.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+  <link rel="modulepreload" crossorigin href="./assets/three.module-D07bAYsh.js">
+  <link rel="modulepreload" crossorigin href="./assets/OrbitControls-D1gJLRoG.js">
+  <link rel="modulepreload" crossorigin href="./assets/RoomEnvironment-DbzEDhbZ.js">
+  <link rel="modulepreload" crossorigin href="./assets/UnrealBloomPass-C5y5AwIY.js">
+  <link rel="modulepreload" crossorigin href="./assets/meshopt_decoder.module-DBLm3Uwk.js">
+  <link rel="modulepreload" crossorigin href="./assets/SkeletonUtils-BCVmgslc.js">
+  <link rel="stylesheet" crossorigin href="./assets/engine1-uf7muI6f.css">
+</head>
+<body>
+  <div id="gl"></div>
+  <header class="top">
+    <a class="brand" href="./">
+      <span class="code">ENG1</span>
+      <span class="title">发动机试验台<small>TURBINE · ROCKET · PISTON</small></span>
+    </a>
+    <div class="tach"><b id="tach">0</b><span id="tach-unit">RPM</span></div>
+  </header>
+  <aside class="side">
+    <div class="chips" id="families"></div>
+    <ol class="list" id="list"></ol>
+  </aside>
+  <article class="info" id="info"></article>
+  <footer class="dock">
+    <div class="seg" id="views">
+      <button data-view="whole" class="active">整体</button>
+      <button data-view="cut">剖视</button>
+      <button data-view="explode">拆解</button>
+    </div>
+    <label class="slider">转速 <input id="rpm" type="range" min="600" max="7000" value="2400" /></label>
+    <button id="run" class="go">运转</button>
+    <button id="ignite" class="go off">点火</button>
+    <button id="spin" class="go off">转台</button>
+  </footer>
+  <div id="loader">正在把发动机吊上试验台…</div>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</body>
+</html>

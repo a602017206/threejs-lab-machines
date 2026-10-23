@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="南天门计划装备参考图鉴：鸾鸟、玄女、白帝乙型、承影、寒光、紫火的展览实拍、设定图与可旋转的本地三维模型。" />
+  <title>NTM1 · 南天门计划图鉴</title>
+  <script type="module" crossorigin src="./assets/ntm1-_5hHD-j1.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+  <link rel="stylesheet" crossorigin href="./assets/ntm1-CfFNuPnB.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" title="返回首页"><span class="brand-code">NTM1</span><span>南天门计划图鉴<small>NANTIANMEN · EQUIPMENT ARCHIVE</small></span></a>
+    <nav class="pages" aria-label="浏览模式">
+      <button data-page="gallery" aria-pressed="true">影像展厅</button>
+      <button data-page="models" aria-pressed="false">三维模型</button>
+      <button data-page="compare" aria-pressed="false">尺寸对比</button>
+    </nav>
+    <span class="edition">航空科幻 IP <i></i> 资料校订版</span>
+  </header>
+  <div class="archive-layout">
+    <aside class="catalog" aria-label="装备目录">
+      <div class="catalog-heading"><span>装备谱系</span><span id="unit-count"></span></div>
+      <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索装备名称" aria-label="搜索装备名称" /></label>
+      <div id="filters" class="filters" aria-label="装备类型筛选"></div>
+      <ol id="unit-list" class="unit-list"></ol>
+      <div class="catalog-foot"><span class="status-dot"></span>影像与来源逐项对应<p>中航环球航空科幻 IP<br>展品实拍 · 外形重建 · 社区模型</p></div>
+    </aside>
+    <main id="main-content" class="content" aria-label="装备展示"></main>
+    <aside id="unit-info" class="unit-info" aria-label="装备资料"></aside>
+  </div>
+  <footer class="page-foot"><span>南天门计划 · 以公开设定与展品为依据</span><span>科幻设定 / 展示模型<span class="foot-divider">·</span>影像版权归原权利人</span></footer>
+  <dialog id="image-dialog" aria-label="查看参考原图"><button id="close-image" class="close-image" aria-label="关闭原图">关闭 ×</button><img id="dialog-image" alt="" /><p id="dialog-caption"></p></dialog>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</body>
+</html>

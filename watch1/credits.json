@@ -1,0 +1,26 @@
+{
+  "movement": {
+    "name": "mechanical watch mechanism",
+    "author": "Vipron",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/mechanical-watch-mechanism-56e60ad7abf94f16a9dbf92f319ffdf7"
+  },
+  "escapement": {
+    "name": "Swiss lever escapement mechanism",
+    "author": "C. Yamahata",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/swiss-lever-escapement-mechanism-96cf82a6bdcd4ddda7635fbd33d0e016"
+  },
+  "magic": {
+    "name": "Seiko Magic Lever",
+    "author": "C. Yamahata",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/seiko-magic-lever-e9fd9159debc4e94a295888e66de0541"
+  },
+  "zenith": {
+    "name": "Zenith Defy Lab",
+    "author": "C. Yamahata",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/zenith-defy-lab-7d12e0a56afd4fa59bc702f6f45203d5"
+  }
+}

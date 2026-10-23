@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WATCH1 · 机芯检验台</title>
+  <script type="module" crossorigin src="./assets/watch1-DzndZiT7.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+  <link rel="modulepreload" crossorigin href="./assets/three.module-D07bAYsh.js">
+  <link rel="modulepreload" crossorigin href="./assets/OrbitControls-D1gJLRoG.js">
+  <link rel="modulepreload" crossorigin href="./assets/meshopt_decoder.module-DBLm3Uwk.js">
+  <link rel="modulepreload" crossorigin href="./assets/SkeletonUtils-BCVmgslc.js">
+  <link rel="stylesheet" crossorigin href="./assets/watch1-CgWpePyz.css">
+</head>
+<body>
+  <div id="gl"></div>
+  <div class="vignette" aria-hidden="true"></div>
+  <header class="top">
+    <a class="brand" href="./">
+      <span class="code">WATCH1</span>
+      <span class="title">机芯检验台<small>GEAR · ESCAPEMENT · WINDING</small></span>
+    </a>
+    <div class="beat"><b id="beat">—</b><span id="beat-state">静止</span></div>
+  </header>
+  <aside class="side">
+    <div class="chips" id="families"></div>
+    <ol class="list" id="list"></ol>
+  </aside>
+  <article class="info" id="info"></article>
+  <footer class="dock">
+    <div class="seg" id="views">
+      <button type="button" data-view="three" class="active">斜视</button>
+      <button type="button" data-view="top">俯视</button>
+      <button type="button" data-view="side">侧面</button>
+    </div>
+    <label class="slider">拆解 <input id="explode" type="range" min="0" max="100" value="0" /></label>
+    <label class="slider">速度 <input id="rate" type="range" min="15" max="160" value="100" /></label>
+    <button type="button" id="run" class="go">走时</button>
+  </footer>
+  <div id="loader">正在把机芯放到台布上…</div>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</body>
+</html>

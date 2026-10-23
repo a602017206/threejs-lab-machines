@@ -1,0 +1,375 @@
+[
+  {
+    "key": "us-ford",
+    "source": {
+      "author": "waelXcm",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/gerald-r-ford-aircraft-carrier-562bf516e1494df38d8f222504dc798b",
+      "name": "Gerald R Ford aircraft Carrier"
+    }
+  },
+  {
+    "key": "us-enterprise",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/uss-enterprise-cvn-65-aircraft-carrier-f1b46fa2de8f409cbbe693f7f10dc3b8",
+      "name": "USS Enterprise CVN-65 Aircraft Carrier"
+    }
+  },
+  {
+    "key": "us-nimitz",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/uss-nimitz-cvn-68-aircraft-carrier-06cf0dba66874934a105b3fe2bfdb0f7",
+      "name": "USS NIMITZ CVN-68 AIRCRAFT CARRIER"
+    }
+  },
+  {
+    "key": "ru-kiev",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/kiev-class-aircraft-carrier-f854eda1eab54a40aae8628e6456ae78",
+      "name": "KIEV CLASS AIRCRAFT CARRIER"
+    }
+  },
+  {
+    "key": "cn-891",
+    "source": {
+      "author": "全斗焕",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/chinese-plan-project891-aircraft-carrier-d7db842b74654ccab9f92130d616a39f",
+      "name": "Chinese PLAN Project.891 Aircraft Carrier"
+    }
+  },
+  {
+    "key": "us-burke",
+    "source": {
+      "author": "Yi Tsung Lee",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/11-low-poly-us-navy-ddg-51-uss-arleigh-burke-17be09c31c6047e4a5969b68c29eba03",
+      "name": "1:1 Low poly US NAVY DDG-51 USS Arleigh Burke."
+    }
+  },
+  {
+    "key": "jp-samidare",
+    "source": {
+      "author": "everlasting17th",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/samidare-destroyer-b37939147c854e61857f5b248f9efd29",
+      "name": "Samidare destroyer"
+    }
+  },
+  {
+    "key": "ru-udaloy",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/udaloy-1-destroyer-ship-8cb72ce27b8a4cfcacd7dbc7825206af",
+      "name": "UDALOY-1 DESTROYER SHIP"
+    }
+  },
+  {
+    "key": "kr-chungmu",
+    "source": {
+      "author": "shangus930",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/south-korean-destroyer-chung-mu-9cf33c04f8d244638806b8dc37de098f",
+      "name": "South Korean Destroyer Chung Mu"
+    }
+  },
+  {
+    "key": "us-virginia",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/virginia-class-uss-san-francisco-ssn-810-submari-6b0b602041d145698ad44a6d00f35cb6",
+      "name": "VIRGINIA CLASS USS SAN FRANCISCO SSN-810 SUBMARI"
+    }
+  },
+  {
+    "key": "ru-yasen",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/project-855-yasen-m-submarine-54361f4311e14fadb80d84d756cfd5ba",
+      "name": "PROJECT-855 YASEN M SUBMARINE"
+    }
+  },
+  {
+    "key": "ru-shuka",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/shuka-b-class-submarine-d2ca3448f181492d9e83c5f4f698072e",
+      "name": "SHUKA-B CLASS SUBMARINE"
+    }
+  },
+  {
+    "key": "us-delta",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/delta-iv-class-submarine-b8c9fc8872064b60a3ac6db0cd77f0e5",
+      "name": "DELTA IV CLASS SUBMARINE"
+    }
+  },
+  {
+    "key": "de-leopard2",
+    "source": {
+      "author": "buh",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/leopard-2-a6-7cb23d5322df4b409a880de635826067",
+      "name": "Leopard 2 A6"
+    }
+  },
+  {
+    "key": "us-abrams",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/general-dynamics-m1a2-abrams-main-battle-tank-10a16c96ca8b4ebc855915f5d5202046",
+      "name": "General Dynamics M1A2 Abrams Main Battle Tank"
+    }
+  },
+  {
+    "key": "ru-t90",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/uralvagonzavod-t-90am-main-battle-tank-619de9f0908e4c8395fe036ffe6e3884",
+      "name": "Uralvagonzavod T-90AM Main Battle Tank"
+    }
+  },
+  {
+    "key": "jp-type10",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/type-10-main-battle-tank-7d14267918e7441b92ccc9f77869cb37",
+      "name": "TYPE-10 Main Battle Tank"
+    }
+  },
+  {
+    "key": "uk-challenger",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/challenger-2-mk3-main-battle-tank-f1e0bd03ab9d4409bb708f7c0a84b507",
+      "name": "Challenger 2 Mk.3 Main Battle Tank"
+    }
+  },
+  {
+    "key": "de-leo-rev",
+    "source": {
+      "author": "Muhamad Mirza Arrafi",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/leopard-2-mbt-revolution-45311f1c3626462784cd84ec40a82f4b",
+      "name": "Leopard 2 MBT Revolution"
+    }
+  },
+  {
+    "key": "fr-rafale",
+    "source": {
+      "author": "bohmerang",
+      "license": "CC Attribution-NonCommercial-ShareAlike",
+      "url": "https://sketchfab.com/3d-models/dassault-rafale-m-fighter-jet-free-0abf2465adb04bc8bc638688fa54ce21",
+      "name": "Dassault Rafale (M) - Fighter Jet - Free"
+    }
+  },
+  {
+    "key": "us-f104",
+    "source": {
+      "author": "Mikhail_Zelenov",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/f-104-starfighter-96e60f2f463b4b1c8822079f1b2e21eb",
+      "name": "F-104 Starfighter"
+    }
+  },
+  {
+    "key": "cn-055",
+    "source": {
+      "uid": "f0a96b2475da407eb6ea2b430ba9ea85",
+      "title": "Type-055 Destroyer",
+      "author": "SB-129",
+      "license": "CC Attribution",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "url": "https://sketchfab.com/3d-models/type-055-destroyer-f0a96b2475da407eb6ea2b430ba9ea85",
+      "description": "The Type 055 destroyer (NATO/OSD designation Renhai-class cruiser)\nis a class of stealth guided-missile destroyers (rated as guided-missile cruisers per NATO/OSD standard parlance) constructed for the Chinese People's Liberation Army Navy (PLAN). It has a multi-mission design; the combination of sensors and weapons provides a main role of area air defence, with anti-submarine warfare capabilities surpassing previous Chinese surface combatants.\n\n\nThe Type 055 undertakes blue-water expeditionary missions\nand forms the primary escort for Chinese aircraft carriers.\nThe United States classifies these ships as cruisers as the United States Navy (USN) defines a cruiser as a large multi-mission surface combatant with flag facilities; this suggests the U.S. expects the Type 055 to fulfill a similar role to the USN's Ticonderoga-class cruiser.",
+      "faces": 78045,
+      "rawSpans": [
+        19.622265815734863,
+        33.65338299423456,
+        132.60374069213867
+      ],
+      "tris": 77392,
+      "transform": "world transforms baked; Y-up preserved; longest horizontal axis aligned to X; centered and grounded; scaled to exhibit length; textures capped at 2048 and WebP; Meshopt compression"
+    }
+  },
+  {
+    "key": "cn-j35",
+    "source": {
+      "uid": "a3243074e8a04c67ba3847cd62ebdbfb",
+      "title": "J-35 Chinese fighter jet.",
+      "author": "Gaz",
+      "license": "CC Attribution",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "url": "https://sketchfab.com/3d-models/j-35-chinese-fighter-jet-a3243074e8a04c67ba3847cd62ebdbfb",
+      "description": "They are China's latest jet from 1 month ago. It is good to face F-22 with it. Tell me your thoughts in the comments.",
+      "faces": 57380,
+      "rawSpans": [
+        1.9752339720726013,
+        0.6077579855918884,
+        1.1909199953079224
+      ],
+      "tris": 57380,
+      "transform": "world transforms baked; Y-up preserved; longest horizontal axis aligned to X; centered and grounded; scaled to exhibit length; textures capped at 2048 and WebP; Meshopt compression"
+    }
+  },
+  {
+    "key": "cn-qbz191",
+    "source": {
+      "uid": "88786970cb164adaad127a91a29b3dd8",
+      "title": "QBZ-191 - Free",
+      "author": "Brahian SG",
+      "license": "CC Attribution",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "url": "https://sketchfab.com/3d-models/qbz-191-free-88786970cb164adaad127a91a29b3dd8",
+      "description": "QBZ-191 Automatic Rifle\n\none of the latest rifle adopted by the Chinese Army.\n\nTextures Included:\n\nNormal map\n\nRoughness Texture\n\nMetallic Texture\n\nColor Texture\n\nI hope you like it",
+      "faces": 37883,
+      "rawSpans": [
+        0.06405600160360336,
+        0.3006590008735657,
+        0.7751989960670471
+      ],
+      "tris": 37883,
+      "transform": "world transforms baked; Y-up preserved; longest horizontal axis aligned to X; centered and grounded; scaled to exhibit length; textures capped at 2048 and WebP; Meshopt compression"
+    }
+  },
+  {
+    "key": "cn-qbz95",
+    "source": {
+      "uid": "64897225cfcd4d58955abae594b2919c",
+      "title": "QBZ-95 (Low-Poly)",
+      "author": "GoldbergR",
+      "license": "CC Attribution",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "url": "https://sketchfab.com/3d-models/qbz-95-low-poly-64897225cfcd4d58955abae594b2919c",
+      "description": "The QBZ-95 or Type 95 automatic rifle is a bullpup assault rifle chambered in 5.8×42mm/DBP87. The QBZ-95 is a standard-issue rifle of the Type 95 family. Designed in 1989–1991, China.",
+      "faces": 14619,
+      "rawSpans": [
+        0.0594470389187336,
+        0.36586277186870575,
+        0.9123426973819733
+      ],
+      "tris": 14619,
+      "transform": "world transforms baked; Y-up preserved; longest horizontal axis aligned to X; centered and grounded; scaled to exhibit length; textures capped at 2048 and WebP; Meshopt compression"
+    }
+  },
+  {
+    "key": "cn-qbz03",
+    "source": {
+      "uid": "1d1c580834e044b18795dc1be19aef4b",
+      "title": "Low-Poly QBZ-03",
+      "author": "TastyTony",
+      "license": "CC Attribution",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "url": "https://sketchfab.com/3d-models/low-poly-qbz-03-1d1c580834e044b18795dc1be19aef4b",
+      "description": "",
+      "faces": 7728,
+      "rawSpans": [
+        1056.6968231201172,
+        13605.3642578125,
+        3674.2001953125
+      ],
+      "tris": 7727,
+      "transform": "world transforms baked; Y-up preserved; longest horizontal axis aligned to X; centered and grounded; scaled to exhibit length; textures capped at 2048 and WebP; Meshopt compression"
+    }
+  },
+  {
+    "key": "cn-df17",
+    "source": {
+      "uid": "fd705f99e66d4c3993dbbe7045671ac6",
+      "title": "DF-17 Missile",
+      "author": "Chenzoss",
+      "license": "CC Attribution",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "url": "https://sketchfab.com/3d-models/df-17-missile-fd705f99e66d4c3993dbbe7045671ac6",
+      "description": "DF-17 Missile",
+      "faces": 119997,
+      "rawSpans": [
+        0.4262329936027527,
+        0.4840860068798065,
+        1.8972260355949402
+      ],
+      "tris": 119997,
+      "transform": "world transforms baked; Y-up preserved; longest horizontal axis aligned to X; centered and grounded; scaled to exhibit length; textures capped at 2048 and WebP; Meshopt compression"
+    }
+  },
+  {
+    "key": "cn-liaoning",
+    "source": {
+      "uid": "f9ddadfc6988414fa15da2cb1b1de545",
+      "title": "Chinese Aircraft Carrier",
+      "author": "businessyuen",
+      "license": "CC Attribution",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "url": "https://sketchfab.com/3d-models/chinese-aircraft-carrier-f9ddadfc6988414fa15da2cb1b1de545",
+      "description": "**This one is for free!!!!!!!**\n\nAs of early 2026, the People’s Liberation Army Navy (PLAN) operates three aircraft carriers: the commissioned Type 001 Liaoning, the Type 002 Shandong (both ski-jump, conventional), and the advanced Type 003 Fujian (electromagnetic catapult, conventional), with a fourth, potentially nuclear-powered carrier, in development. The Fujian, which joined the fleet in late 2025, significantly enhances China's power projection capabilities.\n\n\nIf you would like to 3D Print, please download it in here.\nhttps://makerworld.com/zh/models/2474146-chinese-aircraft-carrier#profileId-2716725\n\nSuggested size is 1:2000(500%), 1:3000(333.3%) or 1:5000 (200%)\n\nVisit my website to check out my other models.\nbusinessyuen.com\n\nThank you for your support!!!",
+      "faces": 18328,
+      "rawSpans": [
+        8.57664966583252,
+        7.953458786010742,
+        32.498087882995605
+      ],
+      "tris": 18328,
+      "transform": "world transforms baked; Y-up preserved; longest horizontal axis aligned to X; centered and grounded; scaled to exhibit length; textures capped at 2048 and WebP; Meshopt compression",
+      "note": "作者中国航母创作，滑跃甲板外形参考；非精确复原。"
+    }
+  },
+  {
+    "key": "cn-j20",
+    "source": {
+      "uid": "817bcfb55c3e4fcb864e4296e2e57a95",
+      "title": "Chengdu J-20 Fighter",
+      "author": "andertan",
+      "license": "CC Attribution",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "url": "https://sketchfab.com/3d-models/chengdu-j-20-fighter-817bcfb55c3e4fcb864e4296e2e57a95",
+      "description": "The Chengdu J-20 \"Mighty Dragon\" is a cutting-edge, fifth-generation stealth fighter jet developed by China's Chengdu Aerospace Corporation. As a hallmark of modern military aviation, the J-20 represents a significant leap in China's defense capabilities, integrating advanced technologies and design philosophies to achieve superior stealth, agility, and combat effectiveness.",
+      "faces": 1230232,
+      "downloadable": true,
+      "rawSpans": [
+        20.26661729812622,
+        3.175659656524658,
+        12.763267993927002
+      ],
+      "tris": 218943,
+      "originalTriangles": 218943,
+      "transform": "Original author mesh components retained; world transforms baked, Y-up, X longitudinal axis; optimized Meshopt, texture cap 2048.",
+      "quality": "高精度作者模型"
+    }
+  },
+  {
+    "key": "cn-y20",
+    "source": {
+      "uid": "40ce0195eb07494f83304574aafbb3bc",
+      "title": "Xi'an Y20 \"Kunpeng\"",
+      "author": "andertan",
+      "license": "CC Attribution",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "url": "https://sketchfab.com/3d-models/xian-y20-kunpeng-40ce0195eb07494f83304574aafbb3bc",
+      "description": "The Xi'an Y-20 is a large military transport aircraft. The project is being developed by Xi'an Aircraft Industrial Corporation and was officially launched in 2006. The official codename of the aircraft is Kunpeng (Chinese: 鲲鹏), After the mythical bird that can fly for thousands of miles described in the ancient Chinese Taoist classic Zhuangzi. \n*OE Data Integration Network\n\nRange: 2,796 mi\nWingspan: 148′ 0″\nLength: 154′\nFirst flight: January 26, 2013\nManufacturer: Xi'an Aircraft Industrial Corporation\nWeight: 220,500 lbs",
+      "faces": 49316,
+      "rawSpans": [
+        7.156168460845947,
+        2.2099496433511376,
+        7.4687981605529785
+      ],
+      "tris": 49174,
+      "transform": "world transforms baked; Y-up preserved; longest horizontal axis aligned to X; centered and grounded; scaled to exhibit length; textures capped at 2048 and WebP; Meshopt compression"
+    }
+  }
+]
