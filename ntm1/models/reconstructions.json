@@ -1,0 +1,23 @@
+[
+  {
+    "key": "luanniao",
+    "file": "luanniao-reconstruction.glb",
+    "triangles": 41658,
+    "materials": 9,
+    "bytes": 1934816
+  },
+  {
+    "key": "xuannv",
+    "file": "xuannv-reconstruction.glb",
+    "triangles": 11480,
+    "materials": 9,
+    "bytes": 1462184
+  },
+  {
+    "key": "chengying",
+    "file": "chengying-reconstruction.glb",
+    "triangles": 72800,
+    "materials": 11,
+    "bytes": 2025744
+  }
+]

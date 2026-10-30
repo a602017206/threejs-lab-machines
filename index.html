@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Three.js Lab · 三维场景实验室</title>
+    <script type="module" crossorigin src="./assets/home-_E4cNCt0.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+    <link rel="modulepreload" crossorigin href="./assets/three.module-wp4fOTu1.js">
+    <link rel="stylesheet" crossorigin href="./assets/home-haG0DStb.css">
+  </head>
+  <body class="hm">
+    <canvas id="hm-gl" aria-hidden="true"></canvas>
+
+    <header class="hm-top">
+      <a class="hm-brand" href="./"><i></i>THREE.JS LAB</a>
+      <nav><a href="#grid">全部场景</a><a href="dynasty1.html" data-latest>最新 · DYNASTY1</a></nav>
+    </header>
+
+    <section class="hm-hero">
+      <div class="hm-copy">
+        <span class="hm-pill"><i></i>LAB · <b id="hm-count">0</b> 个三维场景 · 运行中</span>
+        <h1>一个浏览器，<br /><em>漫游三维世界</em></h1>
+        <p class="hm-lead">从陆家嘴的真实建筑到新伊甸的舰船，每个场景都是独立的 Three.js 应用：真实数据、官方模型与 GPU 着色器驱动，打开即可交互。</p>
+
+        <article class="hm-current" id="hm-current">
+          <div class="hm-current-text">
+            <small id="hm-cur-kicker">01 · EVE SHIP ARCHIVE</small>
+            <h2 id="hm-cur-name"></h2>
+            <p><span id="hm-cur-desc"></span><i class="hm-caret"></i></p>
+          </div>
+          <footer>
+            <div class="hm-tags" id="hm-cur-tags"></div>
+            <a class="hm-go" id="hm-cur-go" href="./"><span>✦</span>进入场景</a>
+          </footer>
+        </article>
+
+        <nav class="hm-links"><a href="#grid"><b>&gt;_</b> 浏览全部场景</a><a href="dynasty1.html" data-latest><b>▦</b> 河图五千年</a></nav>
+      </div>
+
+      <div class="hm-visual" id="hm-visual">
+        <div class="hm-hud"><span>LATENT FIELD · 400 × 225 · 90,000 PTS</span><span>GLSL · GPU</span></div>
+        <i class="hm-corner tl"></i><i class="hm-corner br"></i>
+        <ol class="hm-steps" id="hm-steps">
+          <li><i><em></em></i><span><b>01</b> 噪声 <small>NOISE</small></span></li>
+          <li><i><em></em></i><span><b>02</b> 模型推理 <small>MODEL</small></span></li>
+          <li><i><em></em></i><span><b>03</b> 成片 <small>FRAME</small></span></li>
+        </ol>
+      </div>
+
+      <dl class="hm-stats">
+        <div><dt id="hm-stat-scenes">—</dt><dd>独立三维场景</dd></div>
+        <div><dt>90,000</dt><dd>GPU 实时粒子</dd></div>
+        <div><dt>402 / 68</dt><dd>官方舰船 / 建筑模型</dd></div>
+        <div><dt>r180</dt><dd>three.js · WebGL</dd></div>
+        <div title="不蒜子 · 仅统计线上部署访问">
+          <dt id="busuanzi_value_site_pv">—</dt>
+          <dd>本站访问</dd>
+        </div>
+        <div title="不蒜子 · 仅统计线上部署访问">
+          <dt id="busuanzi_value_site_uv">—</dt>
+          <dd>独立访客</dd>
+        </div>
+      </dl>
+    </section>
+
+    <section class="hm-grid" id="grid">
+      <header><small>ALL SCENES</small><h2>全部场景</h2><p>悬停卡片，背景中的粒子场会切换到对应场景的画面。</p></header>
+      <div class="hm-cards" id="hm-cards"></div>
+    </section>
+
+    <footer class="hm-foot">Three.js Lab · 所有场景均在浏览器本地实时渲染</footer>
+
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</body>
+</html>

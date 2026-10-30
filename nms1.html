@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="data:," />
+  <title>NMS1 · 无人深空舰船图鉴</title>
+  <script type="module" crossorigin src="./assets/nms1-Br0W2OMg.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+  <link rel="modulepreload" crossorigin href="./assets/three.module-wp4fOTu1.js">
+  <link rel="modulepreload" crossorigin href="./assets/meshopt_decoder.module-DztEfjE3.js">
+  <link rel="modulepreload" crossorigin href="./assets/OrbitControls--YQkD3vs.js">
+  <link rel="modulepreload" crossorigin href="./assets/RoomEnvironment-CrrsudMT.js">
+  <link rel="modulepreload" crossorigin href="./assets/CSS2DRenderer-BDO35FLH.js">
+  <link rel="stylesheet" crossorigin href="./assets/nms1-Sk7Ia16q.css">
+</head>
+<body data-page="showroom">
+  <div id="ak-gl"></div>
+
+  <header class="ak-top">
+    <a class="ak-brand" href="./" title="返回首页">
+      <span class="ak-code">NMS1</span>
+      <span class="ak-title">无人深空舰船图鉴<small>No Man's Sky · <span id="ak-count">0</span> Ships</small></span>
+    </a>
+    <nav class="ak-pages" id="ak-pages">
+      <button data-page="showroom" class="active">展厅</button>
+      <button data-page="compare">尺寸对比</button>
+    </nav>
+  </header>
+
+  <aside class="ak-side">
+    <div class="ak-seg" id="ak-group"></div>
+    <div class="ak-chips" id="ak-filter"></div>
+    <ol class="ak-list" id="ak-list"></ol>
+  </aside>
+
+  <article class="ak-info" id="ak-info"></article>
+
+  <footer class="ak-dock ak-dock-showroom">
+    <div class="ak-seg" id="ak-views"></div>
+    <div class="ak-seg"><button id="ak-spin" class="active">转台</button></div>
+  </footer>
+
+  <footer class="ak-dock ak-dock-compare">
+    <div class="ak-seg" id="ak-compare-toggles">
+      <button data-ref="ref" class="active">50 m 参照柱</button>
+      <button data-ref="grid" class="active">米格网</button>
+    </div>
+  </footer>
+
+  <div class="ak-credit" id="ak-credit"></div>
+
+  <div id="ak-loader">
+    <div class="ak-loader-bar"><i id="ak-loader-fill"></i></div>
+    <div class="ak-loader-text" id="ak-loader-text">正在初始化深空展厅…</div>
+  </div>
+
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</body>
+</html>

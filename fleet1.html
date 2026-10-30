@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#101d2b" />
+  <title>FLEET1 · 世界军备博物馆</title>
+  <script type="module" crossorigin src="./assets/fleet1-B-8q6v2i.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+  <link rel="modulepreload" crossorigin href="./assets/three.module-wp4fOTu1.js">
+  <link rel="modulepreload" crossorigin href="./assets/OrbitControls--YQkD3vs.js">
+  <link rel="modulepreload" crossorigin href="./assets/RoomEnvironment-CrrsudMT.js">
+  <link rel="modulepreload" crossorigin href="./assets/meshopt_decoder.module-DztEfjE3.js">
+  <link rel="modulepreload" crossorigin href="./assets/originals-BE_V6vdj.js">
+  <link rel="stylesheet" crossorigin href="./assets/fleet1-CfCkFRB-.css">
+</head>
+<body data-mode="overall">
+  <div class="museum">
+    <header class="masthead">
+      <a class="brand" href="./" aria-label="返回首页"><span class="brand-symbol">F<span>1</span></span><span><strong>世界军备博物馆</strong><small>FLEET1 / WORLD MILITARY ARCHIVE</small></span></a>
+      <div class="collection-stats"><span><b id="total-count">—</b> 件展品</span><span><b id="china-count">—</b> 件中国军备</span><span><b id="class-count">—</b> 类装备</span></div>
+      <div class="top-actions"><span class="live-dot"></span><span>交互式三维图鉴</span><button id="open-help" class="icon-button" title="操作说明" aria-label="操作说明">?</button></div>
+    </header>
+    <nav id="domains" class="domains" aria-label="军备领域"></nav>
+    <div class="workspace">
+      <aside class="catalog-panel" id="catalog-panel" aria-label="展品目录">
+        <div class="panel-heading"><span>馆藏目录 <small>COLLECTION</small></span><button id="close-catalog" class="mobile-only icon-button" aria-label="关闭目录">×</button></div>
+        <label class="search-field"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索型号 / 中文 / English" aria-label="搜索军备" autocomplete="off" /><kbd>/</kbd></label>
+        <div class="filter-caption">国家 / 地区<button id="clear-filters">重置筛选</button></div>
+        <div id="countries" class="country-filters" aria-label="国家筛选"></div>
+        <label class="category-field">装备类型<select id="category" aria-label="装备类型"></select></label>
+        <div class="list-caption"><span id="result-count" aria-live="polite"></span><span id="list-hint">选择展品以观察</span></div>
+        <ul id="unit-list" class="unit-list" aria-label="军备展品"></ul>
+        <div class="catalog-foot"><span class="live-dot"></span>公开外形 · 三维展陈 · 持续探索</div>
+      </aside>
+      <main class="exhibit-panel">
+        <div class="mobile-toolbar"><button id="open-catalog">☷ 馆藏目录</button><button id="open-details">展品档案 ↗</button></div>
+        <div class="exhibit-heading"><div><div id="exhibit-kicker" class="eyebrow"></div><h1 id="exhibit-name"></h1><p id="exhibit-en"></p></div><div class="specimen-number"><span>EXHIBIT</span><b id="exhibit-number"></b></div></div>
+        <div class="exhibit-tabs" id="modes" role="tablist" aria-label="观察模式">
+          <button role="tab" data-mode="overall" aria-selected="true">整体外观</button>
+          <button role="tab" data-mode="exploded" aria-selected="false">部件拆解</button>
+          <button role="tab" data-mode="section" aria-selected="false">剖面观察</button>
+          <button role="tab" data-mode="interior" aria-selected="false">内部参观</button>
+          <button role="tab" data-mode="compare" aria-selected="false">尺寸对比</button>
+        </div>
+        <section class="viewport" id="viewport" aria-label="三维观察区">
+          <div id="fleet-canvas" class="fleet-canvas"></div>
+          <div id="original-viewer" class="original-viewer" hidden></div>
+          <div id="original-error" class="stage-error" role="alert" hidden><p>作者在线原模型暂时无法连接。</p><button data-original="retry">重新连接原模型</button><button data-original="local">查看本地展陈模型</button></div>
+          <div class="view-note"><span class="view-dot"></span><span id="view-note">整体外观</span></div>
+          <div class="orientation" id="orientation"><span>平面索引 / PLAN</span><div id="plan-icon"></div><small>舰艏 / FRONT →</small></div>
+          <div id="loading" class="loading" role="status" hidden><i></i><span>正在布置展品…</span></div>
+          <div id="error" class="stage-error" role="alert" hidden><p></p><button id="retry">重新载入</button></div>
+          <div id="tour-controls" class="tour-controls" hidden><button data-move="forward" aria-label="向前移动">↑</button><div><button data-move="left" aria-label="向左移动">←</button><button data-move="back" aria-label="向后移动">↓</button><button data-move="right" aria-label="向右移动">→</button></div></div>
+          <div class="stage-caption"><span id="model-origin"></span><span id="interaction-hint">拖动旋转 · 滚轮缩放 · 点击部件</span></div>
+          <div class="camera-tools" id="camera-tools"><button data-view="perspective" class="active" title="透视视角">透视</button><button data-view="side" title="侧面视角">侧面</button><button data-view="front" title="正面视角">正面</button><button data-view="top" title="顶部视角">俯视</button><i></i><button id="spin" title="自动旋转" aria-pressed="false">↻ 转台</button><button id="reset-view" title="重置视角">⌖ 复位</button></div>
+        </section>
+        <section id="mode-controls" class="mode-controls" aria-label="模式控制"></section>
+        <div class="exhibit-bottom"><div><span class="live-dot"></span><span id="mode-caption">从外形开始认识每一件装备</span></div><div class="exhibit-pagination"><button id="previous-unit" aria-label="上一件展品">←</button><span id="pagination"></span><button id="next-unit" aria-label="下一件展品">→</button></div></div>
+      </main>
+      <aside class="detail-panel" id="detail-panel" aria-label="展品档案"><div class="panel-heading">展品档案 <small>FIELD NOTES</small><button id="close-details" class="mobile-only icon-button" aria-label="关闭档案">×</button></div><div id="detail-content"></div></aside>
+    </div>
+    <footer class="museum-footer"><span>FLEET1 <i>/</i> 看见外形，探索结构。</span><span>外形重建与内部空间均为科普示意 <i>·</i> 长度为约值，仅作尺度参照</span><a href="#" id="source-link">关于馆藏与来源 ↗</a></footer>
+  </div>
+  <dialog id="help-dialog"><button class="dialog-close icon-button" aria-label="关闭说明">×</button><div class="eyebrow">VISITOR GUIDE</div><h2>你的掌上军备博物馆</h2><p>旋转观察整体外形，分离主要组件，或进入装备内部的科普空间。</p><dl><dt>外部观察</dt><dd>拖动旋转 · 滚轮 / 双指缩放 · 点击部件查看说明</dd><dt>内部参观</dt><dd>按住拖动环顾 · W A S D / 方向键移动 · 屏幕方向按钮同样可用</dd><dt>部件拆解</dt><dd>滑动调节分离程度 · 点击模型标注或右侧部件列表</dd><dt>尺寸对比</dt><dd>从目录勾选最多 4 件装备，按相同米制比例并列展陈</dd><dt>快捷键</dt><dd>/ 搜索 · R 复位 · Esc 返回整体</dd></dl><p class="provenance-note">新增模型按公开可见外形制作，拆解仅展示主要外部组件；作者模型的拆解保留原表面与贴图，并按外观区域分组；舱室按型号分别设计，未公开的布局与尺寸为展陈示意。原有作者模型保留来源与许可。长度约值仅用于视觉比例，未核实的旧重量和乘员数不再展示。</p><div id="sources" class="sources"></div></dialog>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</body>
+</html>

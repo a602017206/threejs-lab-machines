@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NUM3 · 寰宇观测台</title>
+  <script type="module" crossorigin src="./assets/num3-BWr28mi_.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+  <link rel="modulepreload" crossorigin href="./assets/three.module-wp4fOTu1.js">
+  <link rel="modulepreload" crossorigin href="./assets/UnrealBloomPass-LyAmb42b.js">
+  <link rel="modulepreload" crossorigin href="./assets/OrbitControls--YQkD3vs.js">
+  <link rel="modulepreload" crossorigin href="./assets/CSS2DRenderer-BDO35FLH.js">
+  <link rel="stylesheet" crossorigin href="./assets/num3-DuOdmvRG.css">
+</head>
+<body class="mode-earth">
+  <div id="n3-root">
+    <div id="n3-gl"></div>
+    <div id="n3-label-layer"></div>
+
+    <header class="n3-top">
+      <a class="n3-brand" href="./" title="返回首页">
+        <span class="n3-code">NUM3</span>
+        <span class="n3-title">寰宇观测台<small>Earth &amp; Solar System Observatory</small></span>
+      </a>
+      <nav class="n3-modes" role="tablist">
+        <button class="n3-mode active" data-mode="earth">地球</button>
+        <button class="n3-mode" data-mode="solar">太阳系</button>
+        <i class="n3-mode-ink"></i>
+      </nav>
+      <div class="n3-clock">
+        <div id="n3-utc">--</div>
+        <div id="n3-local">--</div>
+      </div>
+    </header>
+
+    <nav class="n3-crumb" id="n3-crumb" hidden>
+      <span class="n3-crumb-path">地球 <span class="n3-crumb-sep">›</span> <b id="n3-crumb-name"></b></span>
+      <button type="button" id="n3-crumb-exit">返回地球</button>
+    </nav>
+
+    <aside class="n3-side" id="n3-side-earth" data-for="earth">
+      <section>
+        <h3>图层</h3>
+        <div class="n3-toggles" id="n3-earth-layers"></div>
+      </section>
+      <section>
+        <h3>关键地区</h3>
+        <div class="n3-cats" id="n3-cats"></div>
+        <input class="n3-search" id="n3-search" placeholder="搜索城市、海峡、奇观…" />
+        <ul class="n3-list" id="n3-region-list"></ul>
+      </section>
+    </aside>
+
+    <aside class="n3-side" id="n3-side-solar" data-for="solar">
+      <section>
+        <h3>天体</h3>
+        <ul class="n3-list n3-bodies" id="n3-body-list"></ul>
+      </section>
+      <section>
+        <h3>图层与比例</h3>
+        <div class="n3-toggles" id="n3-solar-layers"></div>
+      </section>
+    </aside>
+
+    <article class="n3-info" id="n3-info" hidden>
+      <button class="n3-close" id="n3-info-close" aria-label="关闭">×</button>
+      <div id="n3-info-body"></div>
+    </article>
+
+    <footer class="n3-time">
+      <div class="n3-speeds" id="n3-speeds"></div>
+      <button class="n3-now" id="n3-now">回到现在</button>
+      <button class="n3-now" id="n3-reset">重置视角</button>
+    </footer>
+
+    <div class="n3-hint" id="n3-hint">点击国家查看 · 进入详图看省界与山川</div>
+    <div class="n3-hd" id="n3-hd" hidden>高清贴图加载中…</div>
+    <div class="n3-tip" id="n3-tip" hidden></div>
+  </div>
+
+  <div id="n3-loader">
+    <div class="n3-loader-ring"><i></i><b></b></div>
+    <div class="n3-loader-code">NUM3</div>
+    <div class="n3-loader-text">正在校准星图与轨道根数…</div>
+    <div class="n3-loader-track"><div id="n3-loader-bar"></div></div>
+  </div>
+
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</body>
+</html>

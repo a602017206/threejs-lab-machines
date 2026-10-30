@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MOTO1 · 机车三维图鉴</title>
+  <link rel="icon" href="data:," />
+  <script type="module" crossorigin src="./assets/moto1-Cgsm4CZo.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+  <link rel="modulepreload" crossorigin href="./assets/three.module-wp4fOTu1.js">
+  <link rel="modulepreload" crossorigin href="./assets/meshopt_decoder.module-DztEfjE3.js">
+  <link rel="modulepreload" crossorigin href="./assets/OrbitControls--YQkD3vs.js">
+  <link rel="modulepreload" crossorigin href="./assets/CSS2DRenderer-BDO35FLH.js">
+  <link rel="stylesheet" crossorigin href="./assets/moto1-BNWtmOK4.css">
+</head>
+<body>
+  <div id="m1-gl"></div>
+
+  <header class="m1-top">
+    <a class="m1-brand" href="./" title="返回首页">
+      <span class="m1-code">MOTO1</span>
+      <span class="m1-title">机车三维图鉴<small>Motorcycle Archive · <span id="m1-count">20</span> Models</small></span>
+    </a>
+    <nav class="m1-pages" id="m1-pages">
+      <button data-page="showroom" class="active">展厅</button>
+      <button data-page="compare">尺寸对比</button>
+      <button data-page="ride">山路试驾</button>
+    </nav>
+  </header>
+  <div class="m1-mobile-tools"><button id="m1-mobile-bikes">车型</button><button id="m1-mobile-info">参数</button></div>
+
+  <aside class="m1-side">
+    <div class="m1-seg" id="m1-group"><button data-group="brand" class="active">按品牌</button><button data-group="type">按类型</button></div>
+    <div class="m1-chips" id="m1-filter"></div>
+    <button class="m1-resource-button" id="m1-resources-open">春风车型与资源 <span>450SR · 狒狒</span></button>
+    <ol class="m1-list" id="m1-list"></ol>
+  </aside>
+
+  <article class="m1-info" id="m1-info"></article>
+
+  <section class="m1-radar" id="m1-radar-wrap">
+    <h3>参数雷达 <small>勾选左侧车型加入对比（最多 5 台）</small></h3>
+    <canvas id="m1-radar" width="640" height="520"></canvas>
+    <div class="m1-legend" id="m1-legend"></div>
+  </section>
+
+  <footer class="m1-dock m1-dock-showroom">
+    <div class="m1-seg" id="m1-views"></div>
+    <div class="m1-seg" id="m1-modes"></div>
+    <div class="m1-seg" id="m1-toggles">
+      <button data-toggle="spin" class="active">转台</button>
+      <button data-toggle="night">车灯 · 夜景</button>
+    </div>
+    <div class="m1-paint">
+      <span>配色</span>
+      <div id="m1-swatches"></div>
+    </div>
+  </footer>
+
+  <footer class="m1-dock m1-dock-compare">
+    <div class="m1-seg" id="m1-compare-toggles">
+      <button data-ref="human" class="active">1.75 m 人形参照</button>
+      <button data-ref="grid" class="active">米格网</button>
+    </div>
+    <div class="m1-compare-hint" id="m1-compare-hint"></div>
+  </footer>
+
+  <footer class="m1-dock m1-dock-ride">
+    <label class="m1-slider">巡航速度 <input type="range" id="m1-speed" min="20" max="160" step="5" value="80" /> <b id="m1-speed-val">80</b> km/h</label>
+    <div class="m1-seg" id="m1-cams">
+      <button data-cam="chase" class="active">追尾</button>
+      <button data-cam="side">侧拍</button>
+      <button data-cam="heli">航拍</button>
+    </div>
+    <div class="m1-telemetry"><span>车速 <b id="m1-cur-speed">0 km/h</b></span><span>压弯 <b id="m1-lean">0°</b></span><span>弯道半径 <b id="m1-radius">—</b></span></div>
+  </footer>
+
+  <div class="m1-credit" id="m1-credit"></div>
+
+  <dialog class="m1-resources" id="m1-resources" aria-labelledby="m1-resources-title">
+    <div class="m1-resource-head"><div><span class="eyebrow">CFMOTO COLLECTION</span><h2 id="m1-resources-title">春风车型与资源</h2></div><button id="m1-resources-close" aria-label="关闭资源面板">×</button></div>
+    <p class="m1-resource-intro">已接入的车型可进入展厅。其余车型列出整车、贴图及外观资料的获取入口。</p>
+    <div id="m1-resource-list" class="m1-resource-list"></div>
+  </dialog>
+
+  <div id="m1-loader">
+    <div class="m1-loader-bar"><i id="m1-loader-fill"></i></div>
+    <div class="m1-loader-text" id="m1-loader-text">正在载入影棚…</div>
+    <div class="m1-load-actions" id="m1-load-actions" hidden><button id="m1-retry">重试加载</button><button id="m1-keep-bike">返回展厅</button></div>
+  </div>
+
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</body>
+</html>
