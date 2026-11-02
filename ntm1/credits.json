@@ -1,0 +1,375 @@
+[
+  {
+    "key": "luanniao",
+    "media": [
+      {
+        "src": "/ntm1/references/luanniao-licensed.webp",
+        "label": "授权模型细节",
+        "caption": "凯迪威授权鸾鸟合金模型产品图，用于对照分段甲板、翼缘和前伸结构。",
+        "sourceUrl": "https://www.hpoi.net/hobby/102288",
+        "originalUrl": "https://rfx.hpoi.net/gk/pic/n/2024/10/b243e723a1994636a583ca582800b49e.jpg",
+        "author": "凯迪威 / 中航环球文创 · Hpoi 收录",
+        "kind": "授权模型产品图",
+        "rights": "参考产品影像 · 版权归原权利人，非官方模型文件或 UV 贴图授权",
+        "sha256": "3f0235f1e845d5922cffe6f48b6a46094cb8078c0a80cbb31190309706b20980"
+      },
+      {
+        "src": "/ntm1/references/luanniao-exhibit.webp",
+        "label": "模型整体",
+        "caption": "鸾鸟大型战略空天载机平台缩比模型。",
+        "sourceUrl": "https://paper.people.com.cn/rmrbhwb/html/2019-10/25/content_1952422.htm",
+        "originalUrl": "https://paper.people.com.cn/rmrbhwb/res/2019-10/25/10/rmrbhwb2019102510p20_b.jpg",
+        "author": "中航环球供图 / 人民日报海外版",
+        "date": "2019-10-25",
+        "kind": "展品实拍",
+        "rights": "新闻参考影像 · 版权归原权利人，未授予独立素材再分发或商业使用许可",
+        "sha256": "fd1be92c87c0cd28d2275c737a933464c5c93e3dd811deddb733dfdf104d3634"
+      },
+      {
+        "src": "/ntm1/references/luanniao.webp",
+        "label": "概念动画",
+        "caption": "鸾鸟平台舰体：央视新闻报道中的动画演示画面。",
+        "sourceUrl": "https://www.shobserver.com/wx/detail.do?id=1010729",
+        "originalUrl": "https://images.shobserver.com/img/2025/11/02/CB20251102162012972040.gif",
+        "author": "央视新闻画面 / 科技日报、上观新闻",
+        "date": "2025-11-02",
+        "kind": "概念动画静帧",
+        "rights": "新闻参考影像 · 版权归原权利人，未授予独立素材再分发或商业使用许可",
+        "sha256": "393750981b914e91080514e45d1818d5e9a6afc526c03936376c56fc6e13ef6c",
+        "derivedFromAnimation": true,
+        "frame": 30
+      }
+    ],
+    "model": {
+      "kind": "local",
+      "official": false,
+      "reconstruction": true,
+      "author": "本项目参考建模",
+      "title": "鸾鸟外形重建",
+      "src": "/ntm1/models/luanniao-reconstruction.glb",
+      "references": [
+        "https://paper.people.com.cn/rmrbhwb/html/2019-10/25/content_1952422.htm",
+        "https://www.cqnews.net/web/content_1511368626008846336.html",
+        "https://www.shobserver.com/wx/detail.do?id=1010729",
+        "https://www.hpoi.net/hobby/102288"
+      ],
+      "note": "非官方重建：对照授权模型细化薄翼、四条前伸结构、分层甲板、四组环形装置和翼缘涂装；表面贴图为本项目制作，背面与隐藏结构为近似。",
+      "availability": "本地 GLB，可直接旋转、缩放与切换视角",
+      "revision": 2,
+      "textureSource": "本项目绘制的表面涂层、法线与粗糙度贴图；非官方 UV 文件"
+    },
+    "references": [
+      {
+        "url": "https://paper.people.com.cn/rmrbhwb/html/2019-10/25/content_1952422.htm",
+        "title": "鸾鸟模型：中航环球供图",
+        "publisher": "人民日报海外版",
+        "date": "2019-10-25"
+      },
+      {
+        "url": "https://www.cqnews.net/web/content_1511368626008846336.html",
+        "title": "多款空天装备公开设定",
+        "publisher": "央视新闻客户端 / 华龙网",
+        "date": "2026-06-02"
+      },
+      {
+        "url": "https://www.shobserver.com/wx/detail.do?id=1010729",
+        "title": "南天门计划装备影像",
+        "publisher": "科技日报 / 上观新闻",
+        "date": "2025-11-02"
+      },
+      {
+        "url": "https://www.hpoi.net/hobby/102288",
+        "title": "授权模型细节",
+        "publisher": "凯迪威 / 中航环球文创 · Hpoi 收录"
+      }
+    ],
+    "modelResources": [
+      {
+        "title": "鸾鸟空天母舰（微缩）",
+        "author": "pandabear",
+        "format": "3MF / 3D 打印模型",
+        "availability": "社区模型 · Standard Digital File License；不在本页托管",
+        "url": "https://three-drop.com/model/makerworld/1782157"
+      }
+    ]
+  },
+  {
+    "key": "xuannv",
+    "media": [
+      {
+        "src": "/ntm1/references/xuannv-licensed.webp",
+        "label": "深灰涂装模型",
+        "caption": "互夸模型 1:144 玄女授权产品图，用于对照前掠翼、镂空框架与深灰白色分区。",
+        "sourceUrl": "https://www.chinababyfair.com/news/539.html",
+        "originalUrl": "https://img.ctoy.com.cn/image/2026/04/20260401/6d27c86afdd2287b4d57d6369225cae1.jpeg.webp",
+        "author": "互夸模型 / 中航环球文创 · 深圳国际授权展",
+        "kind": "授权模型产品图",
+        "rights": "参考产品影像 · 版权归原权利人，非官方模型文件或 UV 贴图授权",
+        "sha256": "95fbfd59e2e41672346878c6351a3e83c86dd8ad4614490bb9d5981393257697"
+      },
+      {
+        "src": "/ntm1/references/xuannv.webp",
+        "label": "编队外形",
+        "caption": "玄女空天战机编队：央视新闻报道中的动画演示画面。",
+        "sourceUrl": "https://www.shobserver.com/wx/detail.do?id=1010729",
+        "originalUrl": "https://images.shobserver.com/img/2025/11/02/CB20251102162013120018.gif",
+        "author": "央视新闻画面 / 科技日报、上观新闻",
+        "date": "2025-11-02",
+        "kind": "概念动画静帧",
+        "rights": "新闻参考影像 · 版权归原权利人，未授予独立素材再分发或商业使用许可",
+        "sha256": "366898382da12d3586eb05eb3eb50964dd0f1c4ee9b3ed74b543bdd030f1083b",
+        "derivedFromAnimation": true,
+        "frame": 20
+      }
+    ],
+    "model": {
+      "kind": "local",
+      "official": false,
+      "reconstruction": true,
+      "author": "本项目参考建模",
+      "title": "玄女外形重建",
+      "src": "/ntm1/models/xuannv-reconstruction.glb",
+      "references": [
+        "https://www.cqnews.net/web/content_1511368626008846336.html",
+        "https://www.shobserver.com/wx/detail.do?id=1010729",
+        "https://www.hpoi.net/hobby/87045",
+        "https://www.cgmol.com/model/9/103889.html"
+      ],
+      "note": "非官方重建：对照公开设定及授权模型细化前掠翼、镂空框架、双发尾部与深灰白色涂装；表面贴图为本项目制作，比例和隐藏结构为近似。",
+      "availability": "本地 GLB，可直接旋转、缩放与切换视角",
+      "revision": 2,
+      "textureSource": "本项目绘制的表面涂层、法线与粗糙度贴图；非官方 UV 文件"
+    },
+    "references": [
+      {
+        "url": "https://www.cqnews.net/web/content_1511368626008846336.html",
+        "title": "多款空天装备公开设定",
+        "publisher": "央视新闻客户端 / 华龙网",
+        "date": "2026-06-02"
+      },
+      {
+        "url": "https://www.shobserver.com/wx/detail.do?id=1010729",
+        "title": "南天门计划装备影像",
+        "publisher": "科技日报 / 上观新闻",
+        "date": "2025-11-02"
+      },
+      {
+        "url": "https://www.chinababyfair.com/news/539.html",
+        "title": "深灰涂装模型",
+        "publisher": "互夸模型 / 中航环球文创 · 深圳国际授权展"
+      }
+    ],
+    "modelResources": [
+      {
+        "title": "玄女战机 OBJ 高模",
+        "author": "麻雀王",
+        "format": "OBJ",
+        "availability": "付费模型；文件与许可需在作者页面核对",
+        "url": "https://www.cgmol.com/model/9/103889.html"
+      }
+    ]
+  },
+  {
+    "key": "baidi-b",
+    "media": [
+      {
+        "src": "/ntm1/references/baidi-b.webp",
+        "label": "展品外观",
+        "caption": "中华世纪坛南广场的白帝乙型全尺寸展示模型。",
+        "sourceUrl": "https://www.news.cn/ci/20260714/fbb316361d274137a1ecaf1a5e244988/c.html",
+        "originalUrl": "https://www.news.cn/ci/20260714/fbb316361d274137a1ecaf1a5e244988/20260714fbb316361d274137a1ecaf1a5e244988_202607142e15476750034398a55df4eeb25470c6.png",
+        "author": "新华网 · 李梓菡、戴婉蕾（报道署名）",
+        "date": "2026-07-15",
+        "kind": "展品实拍",
+        "rights": "新闻参考影像 · 版权归原权利人，未授予独立素材再分发或商业使用许可",
+        "sha256": "1cd482101218f5069ec084241acb634d76410b4795597846d60431d129e828a9"
+      },
+      {
+        "src": "/ntm1/references/baidi-airshow.webp",
+        "label": "座舱细节",
+        "caption": "白帝乙型航展展示模型的驾驶舱与机首细节。",
+        "sourceUrl": "https://military.cctv.com/2025/10/19/ARTIrpW0COq6uGIJfKI7Ybev251019.shtml",
+        "originalUrl": "https://p1.img.cctvpic.com/photoworkspace/contentimg/2025/10/19/2025101909444019950.jpg",
+        "author": "央视新闻 / 央视网",
+        "date": "2025-10-19",
+        "kind": "展品实拍",
+        "rights": "新闻参考影像 · 版权归原权利人，未授予独立素材再分发或商业使用许可",
+        "sha256": "7eea556aed022717389a4a95873af19ba20150434df99b417625515f181c5b35"
+      }
+    ],
+    "model": {
+      "kind": "embed",
+      "official": false,
+      "author": "NETRUNNER_pl",
+      "title": "J-50 White Emperor",
+      "uid": "eeeaff93c38a4c8981bc33b886a194a3",
+      "sourceUrl": "https://sketchfab.com/3d-models/j-50-white-emperor-eeeaff93c38a4c8981bc33b886a194a3",
+      "availability": "可公开嵌入查看，作者未开放模型文件下载",
+      "note": "白帝题材社区作品；作者命名为 J-50 White Emperor。展示材质与细节不等同于官方白帝乙型，未获取官方 GLB 或 UV 贴图。"
+    },
+    "references": [
+      {
+        "url": "https://www.news.cn/ci/20260714/fbb316361d274137a1ecaf1a5e244988/c.html",
+        "title": "中华世纪坛南天门计划主题展",
+        "publisher": "新华网",
+        "date": "2026-07-15"
+      },
+      {
+        "url": "https://military.cctv.com/2025/10/19/ARTIrpW0COq6uGIJfKI7Ybev251019.shtml",
+        "title": "南天门计划新装备公开展示",
+        "publisher": "央视新闻 / 央视网",
+        "date": "2025-10-19"
+      },
+      {
+        "url": "https://jl.people.com.cn/n2/2025/0121/c349771-41116138.html",
+        "title": "白帝全尺寸模型公开尺寸",
+        "publisher": "人民网吉林频道",
+        "date": "2025-01-21"
+      }
+    ],
+    "modelResources": [
+      {
+        "title": "White Emperor 模型文件",
+        "author": "NETRUNNER_pl",
+        "format": "Blender / FBX / OBJ / STL + 贴图",
+        "availability": "TurboSquid 付费资源；可在线预览，不在本页分发",
+        "url": "https://www.turbosquid.com/zh_cn/3d-models/j50-white-emperor-fighter-3d-model-2324472"
+      }
+    ]
+  },
+  {
+    "key": "chengying",
+    "media": [
+      {
+        "src": "/ntm1/references/chengying-side-exhibit.webp",
+        "label": "展品侧面",
+        "caption": "绵阳科博会承影展品侧面，用于校准胸甲前倾、髋部与腿甲结构；展品背部装置角度与本页站姿不同。",
+        "sourceUrl": "https://mianyang.scol.com.cn/sdtp/202509/83129285.html",
+        "originalUrl": "https://imgcdn.scol.com.cn/media/2025/09/29/114257067102.jpg",
+        "author": "郭超英 摄 / 川观新闻、四川在线",
+        "date": "2025-09-29",
+        "kind": "展品实拍",
+        "rights": "新闻参考影像 · 版权归原权利人，非官方模型文件或 UV 贴图授权",
+        "sha256": "6c96ee85af397a4ecad99e0403018f553e97903614dba822aec79750604717a6"
+      },
+      {
+        "src": "/ntm1/references/chengying.webp",
+        "label": "机甲实拍",
+        "caption": "中华世纪坛展出的承影战术无人机甲。",
+        "sourceUrl": "https://www.news.cn/ci/20260714/fbb316361d274137a1ecaf1a5e244988/c.html",
+        "originalUrl": "https://www.news.cn/ci/20260714/fbb316361d274137a1ecaf1a5e244988/20260714fbb316361d274137a1ecaf1a5e244988_2026071410f8cf7ea7574e39968ef2b197f82628.png",
+        "author": "新华社记者 颜麟蕴 摄",
+        "date": "2026-07-15",
+        "kind": "展品实拍",
+        "rights": "新闻参考影像 · 版权归原权利人，未授予独立素材再分发或商业使用许可",
+        "sha256": "27056a9fda99c6b01c8abe1f8621961b66c0c710569137c58c4d6b3a400bfc05"
+      }
+    ],
+    "model": {
+      "kind": "local",
+      "official": false,
+      "reconstruction": true,
+      "author": "本项目参考建模",
+      "title": "承影外形重建",
+      "src": "/ntm1/models/chengying-reconstruction.glb",
+      "references": [
+        "https://www.news.cn/ci/20260714/fbb316361d274137a1ecaf1a5e244988/c.html",
+        "https://mianyang.scol.com.cn/sdtp/202509/83129285.html"
+      ],
+      "note": "非官方重建：对照展品正侧面重做前倾楔形胸甲、短腰、外展髋部和渐变腿甲；髋、膝、踝分别连接并细化轴承、叉架和液压件。表面贴图为本项目制作，隐藏结构与姿态为近似。",
+      "availability": "本地 GLB，可直接旋转、缩放与切换视角",
+      "revision": 3,
+      "textureSource": "本项目绘制的表面涂层、法线与粗糙度贴图；非官方 UV 文件"
+    },
+    "references": [
+      {
+        "url": "https://www.news.cn/ci/20260714/fbb316361d274137a1ecaf1a5e244988/c.html",
+        "title": "中华世纪坛南天门计划主题展",
+        "publisher": "新华网",
+        "date": "2026-07-15"
+      },
+      {
+        "url": "https://mianyang.scol.com.cn/sdtp/202509/83129285.html",
+        "title": "绵阳科博会承影展品侧面实拍",
+        "publisher": "川观新闻 / 四川在线 · 郭超英 摄",
+        "date": "2025-09-29"
+      }
+    ]
+  },
+  {
+    "key": "hanguang",
+    "media": [
+      {
+        "src": "/ntm1/references/hanguang.webp",
+        "label": "展品外观",
+        "caption": "寒光通用垂直起降平台，中华世纪坛专属涂装。",
+        "sourceUrl": "https://www.news.cn/ci/20260714/fbb316361d274137a1ecaf1a5e244988/c.html",
+        "originalUrl": "https://www.news.cn/ci/20260714/fbb316361d274137a1ecaf1a5e244988/20260714fbb316361d274137a1ecaf1a5e244988_20260714ca8497505f964b559255d50cf46355b9.png",
+        "author": "新华网 · 李梓菡、戴婉蕾（报道署名）",
+        "date": "2026-07-15",
+        "kind": "展品实拍",
+        "rights": "新闻参考影像 · 版权归原权利人，未授予独立素材再分发或商业使用许可",
+        "sha256": "a3539d054158eee5f11d131781d45569c8d48caa795f09314cff87e98cfb8987"
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.news.cn/ci/20260714/fbb316361d274137a1ecaf1a5e244988/c.html",
+        "title": "中华世纪坛南天门计划主题展",
+        "publisher": "新华网",
+        "date": "2026-07-15"
+      },
+      {
+        "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202607/t20260708_4751444.html",
+        "title": "寒光展品与构型介绍",
+        "publisher": "北京日报 / 首都之窗",
+        "date": "2026-07-08"
+      }
+    ]
+  },
+  {
+    "key": "zihuo",
+    "media": [
+      {
+        "src": "/ntm1/references/zihuo-front.webp",
+        "label": "展品整体",
+        "caption": "天津国际直升机博览会上的紫火概念展示模型。",
+        "sourceUrl": "https://military.cctv.com/2025/10/19/ARTIrpW0COq6uGIJfKI7Ybev251019.shtml",
+        "originalUrl": "https://p2.img.cctvpic.com/photoworkspace/contentimg/2025/10/19/2025101909462027430.jpeg",
+        "author": "央视新闻 / 央视网",
+        "date": "2025-10-19",
+        "kind": "展品实拍",
+        "rights": "新闻参考影像 · 版权归原权利人，未授予独立素材再分发或商业使用许可",
+        "sha256": "cb0fa8b82cb339e06d49a9c35cc5fb1689ef481e5c4c83aad7d375fbcf4516a5"
+      },
+      {
+        "src": "/ntm1/references/zihuo-detail.webp",
+        "label": "俯视细节",
+        "caption": "紫火展品的倾转动力舱与机身外形，新闻视频画面。",
+        "sourceUrl": "https://military.cctv.com/2025/10/19/ARTIrpW0COq6uGIJfKI7Ybev251019.shtml",
+        "originalUrl": "https://p3.img.cctvpic.com/photoworkspace/contentimg/2025/10/19/2025101909463798532.gif",
+        "author": "央视新闻 / 央视网",
+        "date": "2025-10-19",
+        "kind": "展品视频静帧",
+        "rights": "新闻参考影像 · 版权归原权利人，未授予独立素材再分发或商业使用许可",
+        "sha256": "f68742a58a1bcf9fe77cde8981e80c7bd76b73ed485433d6051acbc13a6c0ae5",
+        "derivedFromAnimation": true,
+        "frame": 0
+      }
+    ],
+    "references": [
+      {
+        "url": "https://military.cctv.com/2025/10/19/ARTIrpW0COq6uGIJfKI7Ybev251019.shtml",
+        "title": "南天门计划新装备公开展示",
+        "publisher": "央视新闻 / 央视网",
+        "date": "2025-10-19"
+      },
+      {
+        "url": "https://www.cqnews.net/web/content_1511368626008846336.html",
+        "title": "多款空天装备公开设定",
+        "publisher": "央视新闻客户端 / 华龙网",
+        "date": "2026-06-02"
+      }
+    ]
+  }
+]

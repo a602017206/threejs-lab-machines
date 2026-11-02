@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BEAST · 猛兽侠 超能勇士</title>
+  <script type="module" crossorigin src="./assets/beast1-BqUxDzUX.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+  <link rel="modulepreload" crossorigin href="./assets/three.module-B9vPxLT_.js">
+  <link rel="modulepreload" crossorigin href="./assets/meshopt_decoder.module-Blo96Mie.js">
+  <link rel="modulepreload" crossorigin href="./assets/style-FhmumJhw.js">
+  <link rel="modulepreload" crossorigin href="./assets/OrbitControls-XDG-YRiB.js">
+  <link rel="modulepreload" crossorigin href="./assets/UnrealBloomPass-CL6ZkMXC.js">
+  <link rel="modulepreload" crossorigin href="./assets/OutputPass-DzxmCwFK.js">
+  <link rel="stylesheet" crossorigin href="./assets/style-CCcUJGva.css">
+  <link rel="stylesheet" crossorigin href="./assets/beast1-BKrsMcK1.css">
+</head>
+<body data-faction="maximal" class="tf2 bw">
+  <div id="tf-gl"></div>
+
+  <header class="tf-top">
+    <a class="tf-brand" href="./" title="返回首页">
+      <span class="tf-code">BEAST</span>
+      <span class="tf-title">猛兽侠 · 超能勇士<small>Beast Wars · <span id="tf-count">9</span> 位角色 · 高清动画造型</small></span>
+    </a>
+    <div class="tf-keys"><kbd>空格</kbd> 变形 <kbd>R</kbd> 冲锋演示 <kbd>1–9</kbd> 切换角色</div>
+  </header>
+
+  <aside class="tf-side">
+    <ol class="tf-list" id="tf-list"></ol>
+  </aside>
+
+  <article class="tf-info" id="tf-info"></article>
+
+  <div class="tf2-loading" id="tf-loading"></div>
+
+  <footer class="tf-dock">
+    <button class="tf-go" id="tf-go"><b>⟳</b>变形 · 机器人</button>
+    <button class="tf-roll" id="tf-rollout"><b>➤</b>冲锋演示</button>
+    <label class="tf-scrub">
+      <span>兽形</span>
+      <input type="range" id="tf-scrub" min="0" max="1000" value="0" />
+      <span>机器人</span>
+      <b id="tf-scrub-val">0%</b>
+    </label>
+    <div class="tf-seg" id="tf-speed">
+      <button data-speed="0.25">慢镜</button>
+      <button data-speed="0.5">0.5×</button>
+      <button data-speed="1" class="active">1×</button>
+      <button data-speed="2">2×</button>
+    </div>
+    <div class="tf-seg" id="tf-views"></div>
+    <div class="tf-seg" id="tf-toggles">
+      <button data-toggle="spin">转台</button>
+      <button data-toggle="sound" class="active">音效</button>
+    </div>
+  </footer>
+
+  <div class="tf-credit tf2-credit">
+    <div id="tf2-credits"></div>
+    <div>Transformers / Beast Wars 及角色名为孩之宝（Hasbro）商标。模型来自 Sketchfab 社区作者，按 CC BY 授权署名使用，仅作非商业技术演示。</div>
+  </div>
+
+  <div id="tf-loader"><div class="tf-loader-text">正在穿越时空，抵达史前地球…</div></div>
+
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</body>
+</html>

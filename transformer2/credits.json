@@ -1,0 +1,356 @@
+{
+ "optimus": {
+  "name": "Optimus Prime (Transforming Model)",
+  "author": "Pipogame",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/optimus-prime-transforming-model-200eb9207ae2413dbfa266fd6fef1a4f"
+ },
+ "optimus-g1": {
+  "name": "Bumblebee - Optimus Prime Transform Animation",
+  "author": "DIO",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/bumblebee-optimus-prime-transform-animation-35f9cb09b1b248c7bd6b12912ac8cd3a"
+ },
+ "bumblebee-robot": {
+  "name": "Transformers 2007 Movie: Bumblebee 2007",
+  "author": "Primus03",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-2007-movie-bumblebee-2007-10e1cceb4f1d4ab8bdb0c768afafad2c"
+ },
+ "bumblebee-vehicle": {
+  "name": "2006 | Chevrolet Camaro Concept | 2007 Bumblebee",
+  "author": "kevin (ケビン)",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/2006-chevrolet-camaro-concept-2007-bumblebee-9367ca6be9bc405f9ede0eb7e2aab042"
+ },
+ "ironhide-robot": {
+  "name": "(RIGGED) IRONHIDE // TRANSFORMERS DOTM",
+  "author": "shamus",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/rigged-ironhide-transformers-dotm-798d38cc1180401ba29c0a4a8556d0d4"
+ },
+ "ironhide-vehicle": {
+  "name": "(RIGGED) IRONHIDE // TRANSFORMERS DOTM",
+  "author": "shamus",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/rigged-ironhide-transformers-dotm-798d38cc1180401ba29c0a4a8556d0d4"
+ },
+ "ratchet-robot": {
+  "name": "Ratchet [idle] || Transformers DOTM",
+  "author": "shamus",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/ratchet-idle-transformers-dotm-c045c7855c3949d991662385eb8597ac"
+ },
+ "ratchet-vehicle": {
+  "name": "Ratchet [idle] || Transformers DOTM",
+  "author": "shamus",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/ratchet-idle-transformers-dotm-c045c7855c3949d991662385eb8597ac"
+ },
+ "jazz-robot": {
+  "name": "Transformers The Game Jazz",
+  "author": "Pipo Game in My Notebook",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-the-game-jazz-f83bd776b59e49638809b094ea9249af"
+ },
+ "jazz-vehicle": {
+  "name": "Transformers The Game Jazz",
+  "author": "Pipo Game in My Notebook",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-the-game-jazz-f83bd776b59e49638809b094ea9249af"
+ },
+ "megatron-robot": {
+  "name": "Megatron | Transformers 2007 | Rigged",
+  "author": "K3D",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/megatron-transformers-2007-rigged-2d0530b00e3241ee854cf1824b470cd5"
+ },
+ "megatron-vehicle": {
+  "name": "Megatron Movie First Cybertronian Jet mode",
+  "author": "YohanPL",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/megatron-movie-first-cybertronian-jet-mode-4cdb264994284d81830b2cb5ad5ac393"
+ },
+ "starscream-robot": {
+  "name": "Starscream Robot Transformers Human Alliance",
+  "author": "Kairi DC2",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/starscream-robot-transformers-human-alliance-ded359f685cb41f1805a3d59f944cc0c"
+ },
+ "starscream-vehicle": {
+  "name": "Lockheed Martin F-22 \"Raptor\"",
+  "author": "andertan",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/lockheed-martin-f-22-raptor-7e7b3c372e374dda98e70208d09cfdcf"
+ },
+ "barricade-robot": {
+  "name": "Barricade Tlk",
+  "author": "Pipogame",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/barricade-tlk-9c05aeb0929745bebcad8b56ac359f6c"
+ },
+ "barricade-vehicle": {
+  "name": "2016 | Ford Mustang Police Barricade",
+  "author": "kevin (ケビン)",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/2016-ford-mustang-police-barricade-d54ad13ac57d41c28479db79009ae71e"
+ },
+ "sideswipe-robot": {
+  "name": "Sideswipe Robot Transformers Human Alliance",
+  "author": "Kairi DC2",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/sideswipe-robot-transformers-human-alliance-8b368626d40c4280be1966fdcd98fc0a"
+ },
+ "sideswipe-vehicle": {
+  "name": "Sideswipe Car Transformers Human Alliance",
+  "author": "Kairi DC2",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/sideswipe-car-transformers-human-alliance-de4b2452ea004dea8e1aa97563d0a691"
+ },
+ "soundwave-robot": {
+  "name": "Soundwave Robot Transformers Human Alliance",
+  "author": "Kairi DC2",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/soundwave-robot-transformers-human-alliance-8bf7651e95624c828120652a30038663"
+ },
+ "soundwave-vehicle": {
+  "name": "Cobra Soundwave car/SUV (Galactic Trials)",
+  "author": "hotstar",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/cobra-soundwave-carsuv-galactic-trials-551c30e51dd3403f88badc022cf6e00c"
+ },
+ "shockwave-robot": {
+  "name": "Shockwave Transformers Human Alliance",
+  "author": "Kairi DC2",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/shockwave-transformers-human-alliance-753624cefa7c4457a3646e6701ba9953"
+ },
+ "shockwave-vehicle": {
+  "name": "Abrams M1A1 [Free]",
+  "author": "Quasar",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/abrams-m1a1-free-1b4a0b196df14e67bce38ed6fef7d944"
+ },
+ "arcee-robot": {
+  "name": "Arcee Transformers Human Alliance",
+  "author": "Kairi DC2",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/arcee-transformers-human-alliance-a19bf84bed6b41459481c0e340006727"
+ },
+ "arcee-vehicle": {
+  "name": "Yamaha R1",
+  "author": "ejsnowy",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/yamaha-r1-7b3343ad0c0f4cbe94238c734e1b731a"
+ },
+ "blackout-robot": {
+  "name": "Blackout 2007",
+  "author": "Pipogame",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/blackout-2007-a5ecd4216ef6487ab69af18dfdcd14d4"
+ },
+ "blackout-vehicle": {
+  "name": "Blackout Vehicle Mode",
+  "author": "Pipogame",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/blackout-vehicle-mode-41fc8d74d3d34cc382f0966066ad5dae"
+ },
+ "skywarp-robot": {
+  "name": "Skywarp Robot Transformers Human Alliance",
+  "author": "Kairi DC2",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/skywarp-robot-transformers-human-alliance-c785acfe1dba4786b224f572839cbf7e"
+ },
+ "skywarp-vehicle": {
+  "name": "Skywarp Jet Mode Transformers Human Alliance",
+  "author": "Kairi DC2",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/skywarp-jet-mode-transformers-human-alliance-8469c9b20150439fb874faed3a642fd5"
+ },
+ "devastator": {
+  "name": "Transformers Alliance Devastator",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-devastator-1e95e03accc14915b5c115058faaa6a9"
+ },
+ "mixmaster": {
+  "name": "Transformers Alliance Mixmaster",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-mixmaster-4cc38a39148844d58203ee60e073456f"
+ },
+ "hook": {
+  "name": "Transformers Alliance Hook",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-hook-7eecc168bbf042b78ca3ad41bad56140"
+ },
+ "scavenger": {
+  "name": "Transformers Alliance Scavenger",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-scavenger-42f533d7b0f74553836ac86ab5382b80"
+ },
+ "scrapper": {
+  "name": "Transformers Alliance Scrapper",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-scrapper-e692641d938f4e49a500584eeb9dd04d"
+ },
+ "bonecrusher": {
+  "name": "Transformers Alliance Bonecrusher",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-bonecrusher-a226b379df0e4e3c98f6d5b8fcaed39e"
+ },
+ "longhaul": {
+  "name": "Transformers Alliance Long Haul",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-long-haul-36d9020a2b9548359ebc1b6d5b60f02f"
+ },
+ "brawl-robot": {
+  "name": "Brawl Robot Transformers Human Alliance",
+  "author": "Kairi DC2",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/brawl-robot-transformers-human-alliance-6acd1542cda44ec3b0f33c142fda3cea"
+ },
+ "brawl-vehicle": {
+  "name": "Brawl Tank Transformers Human Alliance",
+  "author": "Kairi DC2",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/brawl-tank-transformers-human-alliance-0337202b86834fbda70071065ff2a768"
+ },
+ "mirage": {
+  "name": "Dino Mirage DOTM Animation",
+  "author": "Pipogame",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/dino-mirage-dotm-animation-6d078856ee364167ac13d8eabd8e6ed2"
+ },
+ "sentinel-robot": {
+  "name": "Sentinel (Not) Prime",
+  "author": "Voon Hong Liang",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/sentinel-not-prime-a27696dcfa3242eeb1d4eb5b029daa66"
+ },
+ "sentinel-vehicle": {
+  "name": "Transformers Age of Extinction Sentinel Prime Tr",
+  "author": "Pipogame",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-age-of-extinction-sentinel-prime-tr-d6b02247736e43009149bd75c891f869"
+ },
+ "wheelie": {
+  "name": "Earth Wars Wheelie",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/earth-wars-wheelie-52620559ea1f4b4fb49a90e6a61228ca"
+ },
+ "bumblebee": {
+  "name": "Transformers Alliance Bumblebee",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-bumblebee-d2d919c2106245009f04491d6cd10b11"
+ },
+ "ironhide": {
+  "name": "Transformers Alliance Ironhide",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-ironhide-80bbb5429ebb4a77b3a9220e91854f94"
+ },
+ "ratchet": {
+  "name": "Transformers Alliance Ratchet",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-ratchet-3937ded1c06241f48e47e7383262e2a3"
+ },
+ "jazz": {
+  "name": "Transformers Alliance Jazz",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-jazz-f639ce3ae0784f6f82be9ea06377fba0"
+ },
+ "megatron": {
+  "name": "Transformers Alliance Megatron",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-megatron-4ff96191e1f14dbfa5647a8eec7b8094"
+ },
+ "starscream": {
+  "name": "Transformers Alliance Starscream",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-starscream-7e2ef94754fa48048ef8a358a9f45707"
+ },
+ "soundwave": {
+  "name": "Transformers Alliance Soundwave",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-soundwave-4c16a8cd99e44ab58c3923f89359baba"
+ },
+ "shockwave": {
+  "name": "Transformers Alliance Shockwave",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-shockwave-d7da37cf78e64d4fb8d14ef482259c82"
+ },
+ "arcee": {
+  "name": "Transformers Alliance Arcee",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-arcee-c92b804b5cf04d2eaae2a8b8e979af3e"
+ },
+ "skywarp": {
+  "name": "Transformers Alliance Skywarp",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-skywarp-a220a90bc9c7407d9f26b35052399254"
+ },
+ "hound": {
+  "name": "Transformers Alliance Hound",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-hound-35110710cfd2431caae671ec99dd12d8"
+ },
+ "wheeljack": {
+  "name": "Transformers Alliance Wheeljack",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-wheeljack-c7b6291f288f4f689b39368c4696c8d8"
+ },
+ "thundercracker": {
+  "name": "Transformers Alliance Thundercracker",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-thundercracker-b66faaf641934170b5626c41ff949aad"
+ },
+ "bluestreak": {
+  "name": "Transformers Alliance Bluestreak",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-bluestreak-788ac671fe7a4c4ca10501521e97240c"
+ },
+ "cliffjumper": {
+  "name": "Transformers Alliance Cliffjumper",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-cliffjumper-5a4bb81561cb411db277c23611318178"
+ },
+ "jetfire": {
+  "name": "Transformers Alliance Jetfire",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-jetfire-e82212d813c14cd8814212a10dfc0514"
+ },
+ "magnus": {
+  "name": "Transformers Alliance Ultra Magnus",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-ultra-magnus-c96a09ef21554b0eb3d6aec6d706d2f7"
+ },
+ "galvatron": {
+  "name": "Transformers Alliance Galvatron",
+  "author": "OrangeSauceu",
+  "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/transformers-alliance-galvatron-9dbae7e387bf4350afc54d0f148880d4"
+ }
+}

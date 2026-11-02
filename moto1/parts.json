@@ -1,0 +1,1087 @@
+{
+ "kawasaki-zx6r": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7151,
+     0.2974,
+     0
+    ],
+    "radius": 0.2974
+   },
+   "rear": {
+    "axle": [
+     -0.703,
+     0.3096,
+     0
+    ],
+    "radius": 0.3095
+   }
+  },
+  "paint": [
+   {
+    "name": "Panels",
+    "area": 4.0213,
+    "textured": true,
+    "color": [
+     0.115,
+     0.28,
+     0.117
+    ],
+    "hue": 125,
+    "sat": 0.59,
+    "val": 0.28,
+    "keyShare": 0.33
+   }
+  ],
+  "lights": [],
+  "glass": [],
+  "tris": 250301
+ },
+ "yamaha-r3": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7508,
+     0.2947,
+     0
+    ],
+    "radius": 0.2947
+   },
+   "rear": {
+    "axle": [
+     -0.6292,
+     0.3271,
+     0
+    ],
+    "radius": 0.3136
+   }
+  },
+  "paint": [
+   {
+    "name": "plastico_blanco",
+    "area": 0.4509,
+    "textured": false,
+    "color": [
+     1,
+     0.855,
+     0.41
+    ],
+    "hue": 45,
+    "sat": 0.59,
+    "val": 1,
+    "keyShare": null
+   }
+  ],
+  "lights": [
+   "luces_rojas"
+  ],
+  "glass": [
+   "vidrio"
+  ],
+  "tris": 27900
+ },
+ "honda-gold-wing": {
+  "wheels": null,
+  "paint": [
+   {
+    "name": "material_0",
+    "area": 9.4713,
+    "textured": true,
+    "color": [
+     0.376,
+     0.395,
+     0.428
+    ],
+    "hue": 215,
+    "sat": 0.12,
+    "val": 0.43,
+    "keyShare": 0.081
+   }
+  ],
+  "lights": [],
+  "glass": [],
+  "tris": 47421
+ },
+ "kawasaki-h2": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7382,
+     0.3102,
+     0.0002
+    ],
+    "radius": 0.3043
+   },
+   "rear": {
+    "axle": [
+     -0.6975,
+     0.3329,
+     0.0021
+    ],
+    "radius": 0.3329
+   }
+  },
+  "paint": [
+   {
+    "name": "Vt_Liu.006",
+    "area": 0.567,
+    "textured": false,
+    "color": [
+     0,
+     0.348,
+     0.011
+    ],
+    "hue": 122,
+    "sat": 1,
+    "val": 0.35,
+    "keyShare": null
+   }
+  ],
+  "lights": [],
+  "glass": [],
+  "tris": 226754
+ },
+ "kawasaki-zx10r": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7434,
+     0.305,
+     0.0001
+    ],
+    "radius": 0.305
+   },
+   "rear": {
+    "axle": [
+     -0.7125,
+     0.3402,
+     -0.0008
+    ],
+    "radius": 0.3364
+   }
+  },
+  "paint": [
+   {
+    "name": "00_-_Ninja_ZX10R_-_Pintura_Cinza_Nardo",
+    "area": 1.6565,
+    "textured": false,
+    "color": [
+     0.216,
+     0.216,
+     0.216
+    ],
+    "hue": 0,
+    "sat": 0,
+    "val": 0.22,
+    "keyShare": null
+   }
+  ],
+  "lights": [
+   "00_-_Ninja_ZX10R_-_LED"
+  ],
+  "glass": [
+   "00_-_Ninja_ZX10R_-_Vidro"
+  ],
+  "tris": 198810
+ },
+ "kawasaki-z1000": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7253,
+     0.3212,
+     0.0079
+    ],
+    "radius": 0.2975
+   },
+   "rear": {
+    "axle": [
+     -0.7047,
+     0.318,
+     0.031
+    ],
+    "radius": 0.318
+   }
+  },
+  "paint": [
+   {
+    "name": "cobre_0",
+    "area": 0.4991,
+    "textured": true,
+    "color": [
+     0.865,
+     0.492,
+     0.26
+    ],
+    "hue": 25,
+    "sat": 0.7,
+    "val": 0.87,
+    "keyShare": 0.945
+   },
+   {
+    "name": "cobre",
+    "area": 0.2687,
+    "textured": false,
+    "color": [
+     0.472,
+     0.172,
+     0
+    ],
+    "hue": 22,
+    "sat": 1,
+    "val": 0.47,
+    "keyShare": null
+   }
+  ],
+  "lights": [],
+  "glass": [
+   "vidrio"
+  ],
+  "tris": 36722
+ },
+ "yamaha-r1": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7298,
+     0.2977,
+     0.0002
+    ],
+    "radius": 0.2977
+   },
+   "rear": {
+    "axle": [
+     -0.6616,
+     0.3633,
+     -0.0001
+    ],
+    "radius": 0.3271
+   }
+  },
+  "paint": [
+   {
+    "name": "mat_livery_0_618_001",
+    "area": 3.4075,
+    "textured": true,
+    "color": [
+     0.136,
+     0.131,
+     0.133
+    ],
+    "hue": 334,
+    "sat": 0.04,
+    "val": 0.14,
+    "keyShare": 0
+   }
+  ],
+  "lights": [
+   "mat_light618"
+  ],
+  "glass": [
+   "mat_glass618_001",
+   "mat_glasstint618_001",
+   "BASE_glass_edge"
+  ],
+  "tris": 270382
+ },
+ "yamaha-mt07": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7246,
+     0.3079,
+     0
+    ],
+    "radius": 0.3079
+   },
+   "rear": {
+    "axle": [
+     -0.7153,
+     0.3268,
+     0
+    ],
+    "radius": 0.3172
+   }
+  },
+  "paint": [],
+  "lights": [
+   "Rear_Light",
+   "Light_front"
+  ],
+  "glass": [],
+  "tris": 32884
+ },
+ "honda-cbr1000rrr": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7483,
+     0.3017,
+     0
+    ],
+    "radius": 0.3017
+   },
+   "rear": {
+    "axle": [
+     -0.7314,
+     0.3599,
+     0
+    ],
+    "radius": 0.3186
+   }
+  },
+  "paint": [
+   {
+    "name": "Liveries",
+    "area": 4.4099,
+    "textured": true,
+    "color": [
+     0.562,
+     0.297,
+     0.128
+    ],
+    "hue": 25,
+    "sat": 0.77,
+    "val": 0.56,
+    "keyShare": 0.598
+   }
+  ],
+  "lights": [
+   "lights"
+  ],
+  "glass": [
+   "glass"
+  ],
+  "tris": 175441
+ },
+ "honda-africa-twin": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.824,
+     0.3448,
+     -0.0018
+    ],
+    "radius": 0.3411
+   },
+   "rear": {
+    "axle": [
+     -0.7528,
+     0.331,
+     -0.0016
+    ],
+    "radius": 0.331
+   }
+  },
+  "paint": [
+   {
+    "name": "Material.003",
+    "area": 0.1339,
+    "textured": false,
+    "color": [
+     0,
+     0.021,
+     0.27
+    ],
+    "hue": 235,
+    "sat": 1,
+    "val": 0.27,
+    "keyShare": null
+   }
+  ],
+  "lights": [
+   "lights.001",
+   "headlight",
+   "lights",
+   "foglights"
+  ],
+  "glass": [
+   "glass_500ox",
+   "script_rt_dials_race",
+   "glass_500px",
+   "glass_500px.001"
+  ],
+  "tris": 253901
+ },
+ "ducati-panigale-v4": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7663,
+     0.2927,
+     0
+    ],
+    "radius": 0.2887
+   },
+   "rear": {
+    "axle": [
+     -0.7231,
+     0.3319,
+     -0.0896
+    ],
+    "radius": 0.3319
+   }
+  },
+  "paint": [
+   {
+    "name": "body_black_paint",
+    "area": 0.8584,
+    "textured": false,
+    "color": [
+     0.037,
+     0.037,
+     0.037
+    ],
+    "hue": 0,
+    "sat": 0,
+    "val": 0.04,
+    "keyShare": null
+   },
+   {
+    "name": "body_red_paint.005",
+    "area": 0.2585,
+    "textured": false,
+    "color": [
+     0.787,
+     0.003,
+     0.008
+    ],
+    "hue": 360,
+    "sat": 1,
+    "val": 0.79,
+    "keyShare": null
+   },
+   {
+    "name": "body_red_paint.004",
+    "area": 0.0066,
+    "textured": true,
+    "color": [
+     0.867,
+     0.218,
+     0.19
+    ],
+    "hue": 5,
+    "sat": 0.78,
+    "val": 0.87,
+    "keyShare": 0.917
+   },
+   {
+    "name": "body_red_paint",
+    "area": 1.6,
+    "textured": false,
+    "color": [
+     0.787,
+     0.003,
+     0.008
+    ],
+    "hue": 360,
+    "sat": 1,
+    "val": 0.79,
+    "keyShare": null
+   },
+   {
+    "name": "body_red_paint.002",
+    "area": 0.0096,
+    "textured": true,
+    "color": [
+     0.892,
+     0.034,
+     0.138
+    ],
+    "hue": 355,
+    "sat": 0.96,
+    "val": 0.89,
+    "keyShare": 0.996
+   },
+   {
+    "name": "body_red_paint.001",
+    "area": 0.0239,
+    "textured": false,
+    "color": [
+     0,
+     0.002,
+     0.439
+    ],
+    "hue": 240,
+    "sat": 1,
+    "val": 0.44,
+    "keyShare": null
+   }
+  ],
+  "lights": [
+   "Material.034",
+   "Material.027",
+   "Material.037"
+  ],
+  "glass": [
+   "glass.004",
+   "glass.005"
+  ],
+  "tris": 266319
+ },
+ "ducati-monster": {
+  "wheels": null,
+  "paint": [],
+  "lights": [],
+  "glass": [],
+  "tris": 205629
+ },
+ "bmw-s1000rr": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7417,
+     0.2948,
+     -0.0085
+    ],
+    "radius": 0.2948
+   },
+   "rear": {
+    "axle": [
+     -0.7231,
+     0.3136,
+     -0.0083
+    ],
+    "radius": 0.3134
+   }
+  },
+  "paint": [
+   {
+    "name": "vehicle_paint1",
+    "area": 0.0132,
+    "textured": false,
+    "color": [
+     0.356,
+     0.356,
+     0.356
+    ],
+    "hue": 0,
+    "sat": 0,
+    "val": 0.36,
+    "keyShare": null
+   },
+   {
+    "name": "bmw_m1krr_livery_PRIMARY",
+    "area": 0.0013,
+    "textured": true,
+    "color": [
+     0.294,
+     0.36,
+     0.147
+    ],
+    "hue": 85,
+    "sat": 0.59,
+    "val": 0.36,
+    "keyShare": 0.497
+   },
+   {
+    "name": "vehicle_paint1_DASHBOARD",
+    "area": 0.035,
+    "textured": false,
+    "color": [
+     0.54,
+     0.54,
+     0.54
+    ],
+    "hue": 0,
+    "sat": 0,
+    "val": 0.54,
+    "keyShare": null
+   }
+  ],
+  "lights": [
+   "headlight_glass_25",
+   "vehicle_generic_smallspecmap.024"
+  ],
+  "glass": [
+   "glass_500px",
+   "vehicle_generic_smallspecmap.022"
+  ],
+  "tris": 259613
+ },
+ "bmw-k1600gtl": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.9506,
+     0.2944,
+     0
+    ],
+    "radius": 0.2944
+   },
+   "rear": {
+    "axle": [
+     -0.6695,
+     0.315,
+     0.0018
+    ],
+    "radius": 0.3131
+   }
+  },
+  "paint": [
+   {
+    "name": "carpaint_grey",
+    "area": 5.1033,
+    "textured": false,
+    "color": [
+     0.007,
+     0.028,
+     0.063
+    ],
+    "hue": 218,
+    "sat": 0.9,
+    "val": 0.06,
+    "keyShare": null
+   }
+  ],
+  "lights": [
+   "light_white"
+  ],
+  "glass": [
+   "glass_clear",
+   "glass_red"
+  ],
+  "tris": 254285
+ },
+ "harley-iron883": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7738,
+     0.3187,
+     0
+    ],
+    "radius": 0.3187
+   },
+   "rear": {
+    "axle": [
+     -0.7105,
+     0.3187,
+     0
+    ],
+    "radius": 0.3191
+   }
+  },
+  "paint": [
+   {
+    "name": "Root",
+    "area": 0.0261,
+    "textured": false,
+    "color": [
+     0.324,
+     0,
+     0
+    ],
+    "hue": 0,
+    "sat": 1,
+    "val": 0.32,
+    "keyShare": null
+   }
+  ],
+  "lights": [
+   "luces_rojas"
+  ],
+  "glass": [],
+  "tris": 25942
+ },
+ "triumph-bonneville": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7812,
+     0.3168,
+     -0.1093
+    ],
+    "radius": 0.3188
+   },
+   "rear": {
+    "axle": [
+     -0.7945,
+     0.3325,
+     -0.1272
+    ],
+    "radius": 0.3314
+   }
+  },
+  "paint": [
+   {
+    "name": "MT__15_32_43_3",
+    "area": 0.1432,
+    "textured": true,
+    "color": [
+     0.428,
+     0.303,
+     0.23
+    ],
+    "hue": 25,
+    "sat": 0.46,
+    "val": 0.43,
+    "keyShare": 0.933
+   },
+   {
+    "name": "MT__15_58",
+    "area": 0.0459,
+    "textured": true,
+    "color": [
+     0.659,
+     0.468,
+     0.196
+    ],
+    "hue": 35,
+    "sat": 0.7,
+    "val": 0.66,
+    "keyShare": 1
+   },
+   {
+    "name": "MT__4_5",
+    "area": 0.0286,
+    "textured": true,
+    "color": [
+     0.235,
+     0.185,
+     0.126
+    ],
+    "hue": 35,
+    "sat": 0.46,
+    "val": 0.23,
+    "keyShare": 0.532
+   },
+   {
+    "name": "MT__15_56",
+    "area": 0.0243,
+    "textured": true,
+    "color": [
+     0.85,
+     0.401,
+     0.128
+    ],
+    "hue": 25,
+    "sat": 0.85,
+    "val": 0.85,
+    "keyShare": 1
+   }
+  ],
+  "lights": [],
+  "glass": [],
+  "tris": 262705
+ },
+ "suzuki-hayabusa": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7919,
+     0.3031,
+     0
+    ],
+    "radius": 0.3031
+   },
+   "rear": {
+    "axle": [
+     -0.7085,
+     0.3155,
+     0
+    ],
+    "radius": 0.3136
+   }
+  },
+  "paint": [],
+  "lights": [],
+  "glass": [],
+  "tris": 26014
+ },
+ "cfmoto-mt450": {
+  "wheels": null,
+  "paint": [],
+  "lights": [],
+  "glass": [],
+  "tris": 221848
+ },
+ "bmw-r1200gs": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.8038,
+     0.3237,
+     0.0001
+    ],
+    "radius": 0.3237
+   },
+   "rear": {
+    "axle": [
+     -0.7146,
+     0.3228,
+     0.0005
+    ],
+    "radius": 0.3163
+   }
+  },
+  "paint": [
+   {
+    "name": "MAT_CarPaint_Base_Blue",
+    "area": 0.1854,
+    "textured": true,
+    "color": [
+     0.278,
+     0.604,
+     0.847
+    ],
+    "hue": 205,
+    "sat": 0.67,
+    "val": 0.85,
+    "keyShare": 1
+   }
+  ],
+  "lights": [
+   "MAT_Lights.460",
+   "MAT_Lights.466"
+  ],
+  "glass": [
+   "MAT_Glass.395",
+   "MAT_Glass.399"
+  ],
+  "tris": 98009
+ },
+ "harley-fatboy": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.8822,
+     0.3055,
+     -0.0055
+    ],
+    "radius": 0.3028
+   },
+   "rear": {
+    "axle": [
+     -0.7374,
+     0.3028,
+     -0.0055
+    ],
+    "radius": 0.3028
+   }
+  },
+  "paint": [
+   {
+    "name": "red_light_paint",
+    "area": 1.6550884997704816,
+    "textured": false,
+    "hue": null
+   },
+   {
+    "name": "fuel_tank_logo",
+    "area": 0.02614784161321151,
+    "textured": false,
+    "hue": null
+   }
+  ],
+  "lights": [],
+  "glass": [
+   "o_glass",
+   "glass",
+   "red_glass"
+  ],
+  "tris": 262579
+ },
+ "ducati-diavel": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.8195,
+     0.2979,
+     -0.0014
+    ],
+    "radius": 0.298
+   },
+   "rear": {
+    "axle": [
+     -0.7951,
+     0.3279,
+     -0.0023
+    ],
+    "radius": 0.3224
+   }
+  },
+  "paint": [
+   {
+    "name": "body_red",
+    "area": 0.005451316066796782,
+    "textured": false,
+    "hue": null
+   },
+   {
+    "name": "body_1",
+    "area": 3.971684060735359,
+    "textured": false,
+    "hue": null
+   }
+  ],
+  "lights": [],
+  "glass": [
+   "glass_back",
+   "glass_fron"
+  ],
+  "tris": 255539
+ },
+ "yamaha-r1-v2": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7216,
+     0.3059,
+     -0.0053
+    ],
+    "radius": 0.3059
+   },
+   "rear": {
+    "axle": [
+     -0.6984,
+     0.3307,
+     -0.0054
+    ],
+    "radius": 0.3291
+   }
+  },
+  "paint": [
+   {
+    "name": "Main_Decals",
+    "area": 2.2619,
+    "textured": true,
+    "color": [
+     0.139,
+     0.13,
+     0.301
+    ],
+    "hue": 245,
+    "sat": 0.57,
+    "val": 0.3,
+    "keyShare": 0.492
+   },
+   {
+    "name": "Main_Decals_-_Plastics",
+    "area": 0.3946,
+    "textured": true,
+    "color": [
+     0.139,
+     0.13,
+     0.301
+    ],
+    "hue": 245,
+    "sat": 0.57,
+    "val": 0.3,
+    "keyShare": 0.492
+   }
+  ],
+  "lights": [
+   "Taillight_Glass",
+   "Headlight_Reflectors",
+   "Headlights",
+   "Lights_-_Plastic",
+   "Taillight"
+  ],
+  "glass": [
+   "Glass",
+   "Windshield"
+  ],
+  "tris": 92042
+ },
+ "ducati-panigale-v4r": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7399,
+     0.3107,
+     0.0006
+    ],
+    "radius": 0.3126
+   },
+   "rear": {
+    "axle": [
+     -0.7408,
+     0.3463,
+     0.0018
+    ],
+    "radius": 0.3136
+   }
+  },
+  "paint": [
+   {
+    "name": "BaseColour",
+    "area": 2.6075607092084176,
+    "textured": false,
+    "hue": null
+   }
+  ],
+  "lights": [],
+  "glass": [],
+  "tris": 251788
+ },
+ "bmw-s1000rr-v2": {
+  "wheels": {
+   "front": {
+    "axle": [
+     0.7346,
+     0.3019,
+     0
+    ],
+    "radius": 0.3019
+   },
+   "rear": {
+    "axle": [
+     -0.7144,
+     0.3231,
+     0
+    ],
+    "radius": 0.3221
+   }
+  },
+  "paint": [
+   {
+    "name": "carpaint.069",
+    "area": 0.466,
+    "textured": false,
+    "color": [
+     0.067,
+     0.141,
+     0.337
+    ],
+    "hue": 223,
+    "sat": 0.8,
+    "val": 0.34,
+    "keyShare": null
+   },
+   {
+    "name": "carpaint_second.009",
+    "area": 1.7669,
+    "textured": false,
+    "color": [
+     0.882,
+     0.882,
+     0.882
+    ],
+    "hue": 0,
+    "sat": 0,
+    "val": 0.88,
+    "keyShare": null
+   }
+  ],
+  "lights": [],
+  "glass": [
+   "clearglass.069",
+   "orangeglass.053",
+   "redglass.069",
+   "LicPlate_black.022",
+   "LicPlate_white.022",
+   "LicPlate_blue.022",
+   "LicPlate_yellow.022"
+  ],
+  "tris": 260476
+ },
+ "cfmoto-450srs": {
+  "wheels": null,
+  "paint": [],
+  "lights": [],
+  "glass": [],
+  "tris": 25000
+ }
+}

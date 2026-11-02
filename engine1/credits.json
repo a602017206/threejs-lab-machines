@@ -1,0 +1,80 @@
+{
+  "turbofan": {
+    "name": "Turbine | Turbofan Engine | Jet Engine",
+    "author": "blenderbirb",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/turbine-turbofan-engine-jet-engine-74c6aceed86b4a41aaad3b93afc3e262"
+  },
+  "rs25": {
+    "name": "RS-25 engine",
+    "author": "KUBAHA",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/rs-25-engine-127278d0e3444c5c8f2f7adf9a6ffe1a"
+  },
+  "aerospike": {
+    "name": "J-2T-250K",
+    "author": "MartianDays",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/j-2t-250k-96207f15f11746589b3b6ba80fbccf69"
+  },
+  "radial7": {
+    "name": "7-Cylinder Radial Aircraft Engine",
+    "author": "sparklehorse77",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/7-cylinder-radial-aircraft-engine-e10a5c8915f1414099b317bfee74d8d2"
+  },
+  "boxer6": {
+    "name": "F6 Boxer Engine",
+    "author": "Scuderia Morello",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/f6-boxer-engine-5700259eeb494b8f8a0b8f63486c59cc"
+  },
+  "amg-v8": {
+    "name": "Mercedes-AMG GT Engine",
+    "author": "Lucid de Vaustone",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/mercedes-amg-gt-engine-17598fd6cb2a43529857cc2a00d58a98"
+  },
+  "turbofan-cut": {
+    "name": "Turbofan Engine Cutaway (Aerospace 3D Model)",
+    "author": "bagsantanu1109",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/turbofan-engine-cutaway-aerospace-3d-model-2bfdca9d3d144969883543287039a1d5"
+  },
+  "anim-v8": {
+    "name": "Animated Engine V8",
+    "author": "meeww",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/animated-engine-v8-b0dbf778b81e4afba4edf11336e2a099"
+  },
+  "rigged-i4": {
+    "name": "Rigged 4-Cylinder Engine (FREE)",
+    "author": "david.gnzlv",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/rigged-4-cylinder-engine-free-e14ebe68273d49a3becda6802270b4b0"
+  },
+  "2jz": {
+    "name": "Toyota 2JZ GTE Engine [FREE]",
+    "author": "autoNgraphic",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/toyota-2jz-gte-engine-free-7ebc9741434540c4831453066d7ae057"
+  },
+  "merlin": {
+    "name": "Merlin Engine",
+    "author": "BCMC Digital Resources Manager",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/merlin-engine-b20bca4056b748beac8f4adb93bfb74b"
+  },
+  "lambo-v12": {
+    "name": "Engine Lamborghini V12 6.5L/19L SDC ( FREE )",
+    "author": "SDC PERFORMANCE™️",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/engine-lamborghini-v12-65l19l-sdc-free-16d4a2d9ee954bdd8ccf71fcf647b52b"
+  },
+  "al20": {
+    "name": "Turbo schaft engine Ivchenko AL-20",
+    "author": "3dhdscan",
+    "license": "CC Attribution",
+    "url": "https://sketchfab.com/3d-models/turbo-schaft-engine-ivchenko-al-20-8a417cb6d9244451921e973fa469b43f"
+  }
+}
